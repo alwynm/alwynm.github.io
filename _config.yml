@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Alwyn Mathew
-tagline:             PhD student @ IIT Patna
+# tagline:             PhD student @ IIT Patna
 url:                 http://getpoole.com
 paginate:            1
 # baseurl:             ""
