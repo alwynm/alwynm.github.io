@@ -34,4 +34,4 @@ gems:
 
 pages_list:
   About: '/about'
-  Archive: '/archive'
+  Blog: '/archive'
