@@ -1,5 +1,5 @@
 # Permalinks
-permalink:           pretty
+permalink:           /:categories/:title:output_ext
 
 # Setup
 title:               Alwyn Mathew
