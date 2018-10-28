@@ -1,5 +1,5 @@
 # Permalinks
-permalink:          pretty
+permalink:          /blog/:categories/:title
 
 # Setup
 title:               Alwyn Mathew
