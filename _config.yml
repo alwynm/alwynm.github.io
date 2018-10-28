@@ -35,3 +35,4 @@ gems:
 pages_list:
   About: '/about'
   Blog: '/archive'
+  Project: '/projects'
