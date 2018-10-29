@@ -5,6 +5,6 @@ title: Blog
 
 ## Blog
 
-{% for category in site.categories %}
+{% for category in post.categories %}
     * {{category}}
 {% endfor %}
