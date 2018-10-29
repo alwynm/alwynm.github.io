@@ -32,7 +32,7 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
-timezone: Asia/Kathmandu # add your own locale timezone
+timezone: Asia/Kolkata
 
 pages_list:
   About: '/about'
