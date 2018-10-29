@@ -7,9 +7,9 @@ I am a PhD student at IIT Patna under the supervision of [Dr. Jimson Mathew](htt
 
 ## News
 
-* Subreviewer of ISED2018
+* Subreviewer of ISED 2018
 * Session on Microsoft Kinect (2017) [Slide](https://drive.google.com/open?id=1p61ZeACxnCZI3NgO7dgDJBDj5aCoMIzD)
 * Bosch DNA Challenge finalist (2017)
-* Subreviewer of ISED2017
+* Subreviewer of ISED 2017
 * PC member of ICSCC 2017
 * Secured second place at IoT Grand challenge, IIT Patna (2016)
