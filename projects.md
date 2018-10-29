@@ -18,4 +18,4 @@ title: Projects
 * 2018: Muiltobject tracking using deep neural network (Himani Srivastava)
 * 2017: Facial recognition system (Kamal Singh)
 
-[^fn]: Title is a preliminary project title.
+[^fn]: preliminary project title.
