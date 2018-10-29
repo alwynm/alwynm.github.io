@@ -3,8 +3,11 @@ layout: page
 title: Blog
 ---
 
-## Blog Posts
 
-{% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+{% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    * {{ category_name | slugize }}
+    {% for post in site.categories[category_name] %}
+    * [ {{ post.title }} ]({{ post.url }})
+    {% endfor %}
 {% endfor %}
