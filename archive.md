@@ -11,8 +11,8 @@ title: Blog
 
 {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    * {{ category_name}}
+    * {{category_name}}
     {% for post in site.categories[category_name] %}
-      * {{ site.baseurl }}{{ post.url }}]({{post.title}})
+      * [{{post.title}}]({{ post.url }})
     {% endfor %}
 {% endfor %}
