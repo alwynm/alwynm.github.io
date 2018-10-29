@@ -31,7 +31,8 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-last-modified-at
+
+timezone: Asia/Kathmandu # add your own locale timezone
 
 pages_list:
   About: '/about'
