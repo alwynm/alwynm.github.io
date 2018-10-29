@@ -3,4 +3,13 @@ layout: page
 title: Home
 ---
 
-I am a PhD student at IIT Patna under the supervision of Dr. Jimson Mathew. I am primarily interested in replicating biological visual system to a computer system. My current research goal is to build learning algorithms that can perceive depth in a unsupervised way.
+I am a PhD student at IIT Patna under the supervision of [Dr. Jimson Mathew](https://www.iitp.ac.in/index.php/departments/engineering/computer-science-a-engineering/people/faculty/1502-dr-jimson-mathew.html). I am primarily interested in replicating biological visual system to a computer system. My current research goal is to build learning algorithms that can perceive depth in a unsupervised way.
+
+## News
+
+* Subreviewer of ISED2018
+* Session on Microsoft Kinect (2017) [Slide](https://drive.google.com/open?id=1p61ZeACxnCZI3NgO7dgDJBDj5aCoMIzD)
+* Bosch DNA Challenge finalist (2017)
+* Subreviewer of ISED2017
+* PC member of ICSCC 2017
+* Secured second place at IoT Grand challenge, IIT Patna (2016)
