@@ -18,4 +18,9 @@ title: Teaching
 * 2018: Muiltobject tracking using deep neural network (Himani Srivastava)
 * 2017: Facial recognition system (Kamal Singh)
 
+## Teaching Assistant
+
+* CS225: Switching Theory
+* CS421: Computer Peripherals and Interfacing 
+
 [^fn]: preliminary project title.
