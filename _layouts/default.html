@@ -24,21 +24,21 @@
         <center>
         <small>
           &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
-        Last modified at {{ site.time | date: "%Y-%m-%d %H:%M"}}. <br/>
+        Last modified at {{ site.time | date: "%Y-%m-%d %H:%M"}} IST. <br/>
           
           {% if site.twitter_username %}
           <a href="https://twitter.com/{{ site.twitter_username }}">
           <i class="fa fa-twitter"></i> Twitter
           </a>
           {% endif %}
-          &emsp;
+          &nbsp;
           
           {% if site.github_username %}
           <a href="https://github.com/{{ site.github_username }}">
           <i class="fa fa-github"></i> GitHub
           </a>
           {% endif %}
-          &emsp;
+          &nbsp;
           
           {% if site.linkedin_username %}
           <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
