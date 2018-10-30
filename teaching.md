@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-## Undergrad
+### Undergrad
 
 * 2018: Depth estimation from monocular temporal data[^fn] (Anand Majumder)
 * 2018: Smart load scheduling[^fn] (Abijith)
@@ -13,14 +13,14 @@ title: Teaching
 * 2018: Kinect PlayFit (Prakash Kumar & Naveen)
 * 2017: Automated two-wheeler parking system (Zenin Easa P & Dhawal Gupta)
 
-## Postgraduate
+### Postgraduate
 
 * 2018: Muiltobject tracking using deep neural network (Himani Srivastava)
 * 2017: Facial recognition system (Kamal Singh)
 
-## Teaching Assistant
+### Teaching Assistant
 
 * CS225: Switching Theory
-* CS421: Computer Peripherals and Interfacing 
+* CS421: Computer Peripherals and Interfacing
 
 [^fn]: preliminary project title.
