@@ -21,9 +21,10 @@
       </main>
 
       <footer class="footer">
+        <center>
         <small>
           &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
-        Last modified at {{ site.time | date: "%Y-%m-%d %H:%M"}}. 
+        Last modified at {{ site.time | date: "%Y-%m-%d %H:%M"}}. <br/>
           
           {% if site.twitter_username %}
           <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -44,6 +45,7 @@
           {% endif %}
           
         </small>
+        </center>
       </footer>
     </div>
 
