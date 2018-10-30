@@ -23,7 +23,30 @@
       <footer class="footer">
         <small>
           &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
-        Last modified at {{ site.time | date: "%Y-%m-%d %H:%M"}}.
+        Last modified at {{ site.time | date: "%Y-%m-%d %H:%M"}}. 
+        <ul>
+          {% if site.twitter_username %}
+          <li>
+          <a href="https://twitter.com/{{ site.twitter_username }}">
+          <i class="fa fa-twitter"></i> Twitter
+          </a>
+          </li>
+          {% endif %}
+          {% if site.github_username %}
+          <li>
+          <a href="https://github.com/{{ site.github_username }}">
+          <i class="fa fa-github"></i> GitHub
+          </a>
+          </li>
+          {% endif %}
+          {% if site.linkedin_username %}
+          <li>
+          <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+          <i class="fa fa-linkedin"></i> LinkedIn
+          </a>
+          </li>
+          {% endif %}
+        </ul>
         </small>
       </footer>
     </div>
