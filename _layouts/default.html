@@ -27,6 +27,13 @@
         Last modified at {{ site.time | date: "%Y-%m-%d %H:%M"}} IST. <br/>
           
           {% if site.twitter_username %}
+          <a href="mailto:{{ site.author.email }}">
+          <i class="fa fa-envelope"></i> Email
+          </a>
+          {% endif %}
+          &emsp;
+          
+          {% if site.twitter_username %}
           <a href="https://twitter.com/{{ site.twitter_username }}">
           <i class="fa fa-twitter"></i> Twitter
           </a>
