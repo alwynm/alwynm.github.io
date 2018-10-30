@@ -37,7 +37,7 @@ timezone: Asia/Kolkata
 pages_list:
   About: '/about'
   Blog: '/archive'
-  Project: '/projects'
+  Project: '/teaching'
 
 twitter_username:     alwyn_mathew
 github_username:      alwynmathew
