@@ -8,15 +8,15 @@ layout: default
   {{ content }}
 </article>
 
-{% assign match = false %}
+{% assign matchcheck = false %}
 {% for category in post.categories %}
         {% if page.categories contains category %}
-          {% assign match = true %}
+          {% assign matchcheck = true %}
 {% endfor %}
 
 {% if site.related_posts != empty %}
 <aside class="related">
-  {% if match %}
+  {% if matchcheck %}
   <h3>Related posts</h3>
   {% endif %} 
   <ul class="related-posts">
