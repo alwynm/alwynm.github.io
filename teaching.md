@@ -13,7 +13,7 @@ title: Teaching
 * 2018: Kinect PlayFit (Prakash Kumar & Naveen)
 * 2017: Automated two-wheeler parking system (Zenin Easa P & Dhawal Gupta)
 
-### Postgraduate
+### Postgrad
 
 * 2018: Muiltobject tracking using deep neural network (Himani Srivastava)
 * 2017: Facial recognition system (Kamal Singh)
