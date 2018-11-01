@@ -23,3 +23,25 @@ layout: default
   </ul>
 </aside>
 {% endif %}
+
+{% if site.related_posts != empty %}
+<aside class="related">
+  <h3>Related posts</h3>
+  {% for post in site.related_posts limit:5 %}
+    {% assign match = false %}
+    {% for category in post.categories %}
+      {% if page.categories contains category %}
+        {% assign match = true %}
+      {% endif %}
+    {% endfor %}
+    {% if match %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+        </a>
+      </li>
+    {% endif %}                       
+  {% endfor %}
+  </aside>
+{% endif %}
