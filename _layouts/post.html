@@ -12,6 +12,8 @@ layout: default
 {% for category in post.categories %}
         {% if page.categories contains category %}
           {% assign match = true %}
+{% endfor %}
+
 {% if site.related_posts != empty %}
 <aside class="related">
   {% if match %}
