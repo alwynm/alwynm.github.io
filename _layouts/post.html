@@ -8,17 +8,9 @@ layout: default
   {{ content }}
 </article>
 
-{% assign matchcheck = false %}
-{% for category in post.categories %}
-        {% if page.categories contains category %}
-          {% assign matchcheck = true %}
-{% endfor %}
-
 {% if site.related_posts != empty %}
 <aside class="related">
-  {% if matchcheck %}
   <h3>Related posts</h3>
-  {% endif %} 
   <ul class="related-posts">
     {% for post in site.related_posts limit:5 %}
       {% assign match = false %}
