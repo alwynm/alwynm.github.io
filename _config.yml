@@ -43,4 +43,4 @@ twitter_username:     alwyn_mathew
 github_username:      alwynmathew
 linkedin_username:    alwynmathew
 
-markdown: maruku
+markdown: kramdown
