@@ -68,5 +68,10 @@
        ga('send', 'pageview');
      </script>
     {% endif %}
+    
+    {% if post.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
+    
   </body>
 </html>
