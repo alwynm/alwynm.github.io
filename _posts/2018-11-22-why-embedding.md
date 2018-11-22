@@ -16,7 +16,7 @@ But if your data is text, in particular, sentences which are not numerical make 
 Let’s say your vocabulary has 10000 words, and you have defined an ordering over these words - “a”, “the”, “they”, “are”, “have”, etc. Now, you can represent the first word in the ordering 
 
 <center>
-$\begin{bmatrix} \`a' \end{bmatrix}$
+$\begin{bmatrix} 'a' \end{bmatrix}$
 as $\begin{bmatrix} 1 & 0 & 0 & 0 &... \end{bmatrix}$, 
 </center>
 
