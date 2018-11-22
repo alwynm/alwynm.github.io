@@ -25,9 +25,16 @@ Now, we have a way to feed the words into the NN. But the notion of distance tha
 
 ## Embedding
 
-Instead of having a sparse vector for each word, you can have a dense vector for each word, that is, multiple elements of the vector are nonzero and each element of the vector can take continuous values. This immediately reduces the size of the vector. You can have an infinite number of unique vectors of size, say 10, where each element can take any arbitrary value [as opposed to one-hot vectors where each element could take only values 0 or 1]. So, for instance, "a" could be represented as 
- $\begin{bmatrix} 0.13 0.46 0.85 0.96 0.66 0.12 0.01 0.38 0.76 0.95 \end{bmatrix}$, "the" could be represented as 
- $\begin{bmatrix} 0.73 0.45 0.25 0.91 0.06 0.16 0.11 0.36 0.76 0.98 \end{bmatrix}$, and so on. The size of the vectors is a hyperparameter, set using cross-validation. So, how do you feed these dense vector representations of words into the network? The answer is an embedding layer — you will have an embedding layer that is essentially a matrix of size 10000 x 10 [or more generally,  vocab_size×dense_vector_size]. For every word, you have an index in the vocabulary, like "a" &rightarrow; 0, "the" &rightarrow; 1, etc., and you simply look up the corresponding row in the embedding matrix to get its 10-dimensional representation as the output.
+Instead of having a sparse vector for each word, you can have a dense vector for each word, that is, multiple elements of the vector are nonzero and each element of the vector can take continuous values. This immediately reduces the size of the vector. You can have an infinite number of unique vectors of size, say 10, where each element can take any arbitrary value [as opposed to one-hot vectors where each element could take only values 0 or 1]. 
+
+So, for instance, 
+"a" could be represented as 
+ $\begin{bmatrix} 0.13 0.46 0.85 0.96 0.66 0.12 0.01 0.38 0.76 0.95 \end{bmatrix}$, 
+ 
+ "the" could be represented as 
+ $\begin{bmatrix} 0.73 0.45 0.25 0.91 0.06 0.16 0.11 0.36 0.76 0.98 \end{bmatrix}$, and so on. 
+ 
+ The size of the vectors is a hyperparameter, set using cross-validation. So, how do you feed these dense vector representations of words into the network? The answer is an embedding layer — you will have an embedding layer that is essentially a matrix of size 10000 x 10 [or more generally,  vocab_size×dense_vector_size]. For every word, you have an index in the vocabulary, like "a" -> 0, "the" -> 1, etc., and you simply look up the corresponding row in the embedding matrix to get its 10-dimensional representation as the output.
 
 Now, the embedding layer values can be fixed, so that you don’t train it when you train the NN. This could be done, for instance, 
 when you initialize your embedding layer using pretrained word vectors for the words. Alternately, you can initialize the embedding layer randomly, and train it with the other layers. Finally, you could do both — initialize with the word vectors and finetune on the task. In any case, the embeddings of similar words are similar, solving the issue we had with one-hot vectors.
