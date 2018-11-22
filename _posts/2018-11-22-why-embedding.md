@@ -23,7 +23,7 @@ as $\begin{bmatrix} 1 & 0 & 0 & 0 &... \end{bmatrix}$,
 which is a vector of size 10000 with all zeros except at position 1. Similarly, the second, third, …, words can be defined as 
 
 <center>
-$\begin{bmatrix} 0 & 1 & 0 & 0 & ... \end{bmatrix}$, \n
+$\begin{bmatrix} 0 & 1 & 0 & 0 & ... \end{bmatrix}$, \\
 $\begin{bmatrix} 0 & 0 & 1 & 0 & ... \end{bmatrix}$
 </center>. 
 
