@@ -9,7 +9,7 @@ use_math: true
 
 Now a inline math with special character: $$ E = m\cdot c^2 \label{eq:mc2}$$
 
-Matrix A $\begin{matrix}a & b \\\ c & d\end{matrix}$ and matrix B $\begin{matrix}a & b \\\ c & d\end{matrix}$
+Matrix A $\begin{bmatrix}a & b \\\ c & d\end{bmatrix}$ and matrix B $\begin{bmatrix}a & b \\\ c & d\end{bmatrix}$
 
 > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
 
