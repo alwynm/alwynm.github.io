@@ -14,8 +14,12 @@ But if your data is text, in particular, sentences which are not numerical make 
 ## One-hot vectors
 
 Let’s say your vocabulary has 10000 words, and you have defined an ordering over these words — “a”, “the”, “they”, “are”, “have”, etc. Now, you can represent the first word in the ordering 
+
+<center>$\begin{pmatrix} "a" \end{pmatrix}$
+as $\begin{bmatrix} 1 0 0 0 ... \end{bmatrix}$</center>
+
 $\begin{pmatrix} "a" \end{pmatrix}$
-as $\begin{pmatrix} 1 0 0 0 ... \end{pmatrix}$
+as $\begin{bmatrix} 1 0 0 0 ... \end{bmatrix}$
 , which is a vector of size 10000 with all zeros except at position 1. Similarly, the second, third, …, words can be defined as 
 $\begin{bmatrix} 0 1 0 0 ... \end{bmatrix}$
 ,$\begin{bmatrix} 0 0 1 0 ... \end{bmatrix}$
