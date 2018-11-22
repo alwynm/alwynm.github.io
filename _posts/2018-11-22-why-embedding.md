@@ -17,8 +17,8 @@ Let’s say your vocabulary has 10000 words, and you have defined an ordering ov
 $\begin{bmatrix} "a" \end{bmatrix}$
 as $\begin{bmatrix} 1 0 0 0 ... \end{bmatrix}$
 , which is a vector of size 10000 with all zeros except at position 1. Similarly, the second, third, …, words can be defined as 
-[0, 1, 0, 0, ….] $\begin{bmatrix} 0 1 0 0 ... \end{bmatrix}$
-, [0, 0, 1, 0, ….] $\begin{bmatrix} 0 0 1 0 ... \end{bmatrix}$
+$\begin{bmatrix} 0 1 0 0 ... \end{bmatrix}$
+,$\begin{bmatrix} 0 0 1 0 ... \end{bmatrix}$
 . So, the i<sup>th</sup> word will be a vector of size 10,000 with all zeros except a 1 at the i<sup>th</sup> position.
 
 Now, we have a way to feed the words into the NN. But the notion of distance that we had in case of images is not present. All words are equidistant from all other words. Secondly, the dimension of the input is huge. Your vocabulary size could easily go to 100,000 or more.
