@@ -42,7 +42,7 @@ $\begin{bmatrix} “a” \end{bmatrix}$ could be represented as
 $\begin{bmatrix} 0.13 & 0.46 & 0.85 & 0.96 & 0.66 & 0.12 & 0.01 & 0.38 & 0.76 & 0.95 \end{bmatrix}$, 
 </center>
  
-$\begin{bmatrix} “a” \end{bmatrix}$ could be represented as 
+$\begin{bmatrix} “the” \end{bmatrix}$ could be represented as 
 <center>
 $\begin{bmatrix} 0.73 & 0.45 & 0.25 & 0.91 & 0.06 & 0.16 & 0.11 & 0.36 & 0.76 & 0.98 \end{bmatrix}$, 
 </center>
