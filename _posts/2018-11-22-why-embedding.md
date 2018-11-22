@@ -33,7 +33,7 @@ Now, we have a way to feed the words into the NN. But the notion of distance tha
 
 ## Embedding
 
-Instead of having a sparse vector for each word, you can have a dense vector for each word, that is, multiple elements of the vector are nonzero and each element of the vector can take continuous values. This immediately reduces the size of the vector. You can have an infinite number of unique vectors of size, say 10, where each element can take any arbitrary value [as opposed to one-hot vectors where each element could take only values 0 or 1]. 
+Instead of having a sparse vector for each word, you can have a dense vector for each word, that is, multiple elements of the vector are nonzero and each element of the vector can take continuous values. This immediately reduces the size of the vector. You can have an infinite number of unique vectors of size, say 10, where each element can take any arbitrary value \[as opposed to one-hot vectors where each element could take only values 0 or 1\]. 
 
 So, for instance, 
 
