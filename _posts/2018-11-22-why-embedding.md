@@ -27,7 +27,7 @@ $\begin{bmatrix} 0 & 1 & 0 & 0 & ... \end{bmatrix}$,
 $\begin{bmatrix} 0 & 0 & 1 & 0 & ... \end{bmatrix}$.
 </center> 
 
-So, the i<sup>th</sup> word will be a vector of size 10,000 with all zeros except a 1 at the i<sup>th</sup> position.
+So, the i<sup>th</sup> word will be a vector of size 10000 with all zeros except a 1 at the i<sup>th</sup> position.
 
 Now, we have a way to feed the words into the NN. But the notion of distance that we had in case of images is not present. All words are equidistant from all other words. Secondly, the dimension of the input is huge. Your vocabulary size could easily go to 100,000 or more.
 
@@ -48,7 +48,7 @@ $\begin{bmatrix} 0.73 & 0.45 & 0.25 & 0.91 & 0.06 & 0.16 & 0.11 & 0.36 & 0.76 & 
 </center>
 and so on. 
  
- The size of the vectors is a hyperparameter, set using cross-validation. So, how do you feed these dense vector representations of words into the network? The answer is an embedding layer - you will have an embedding layer that is essentially a matrix of size 10000 x 10 \[or more generally,  vocab_size×dense_vector_size\]. For every word, you have an index in the vocabulary, like "a" -> 0, "the" -> 1, etc., and you simply look up the corresponding row in the embedding matrix to get its 10-dimensional representation as the output.
+The size of the vectors is a hyperparameter, set using cross-validation. So, how do you feed these dense vector representations of words into the network? The answer is an embedding layer - you will have an embedding layer that is essentially a matrix of size 10000 x 10 \[or more generally,  vocab_size×dense_vector_size\]. For every word, you have an index in the vocabulary, like "a" -> 0, "the" -> 1, etc., and you simply look up the corresponding row in the embedding matrix to get its 10-dimensional representation as the output.
 
 Now, the embedding layer values can be fixed, so that you don’t train it when you train the NN. This could be done, for instance, 
 when you initialize your embedding layer using pretrained word vectors for the words. Alternately, you can initialize the embedding layer randomly, and train it with the other layers. Finally, you could do both — initialize with the word vectors and finetune on the task. In any case, the embeddings of similar words are similar, solving the issue we had with one-hot vectors.
