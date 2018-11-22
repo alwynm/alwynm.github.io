@@ -20,10 +20,10 @@ $ \left[\begin{matrix} 00 & 01 & 02 \end{matrix}\right] $
 </center>
 
 $\begin{pmatrix} "a" \end{pmatrix}$
-as $\begin{bmatrix} 1 0 0 0 ... \end{bmatrix}$
+as $\begin{matrix} 1 & 0 & 0 & 0 &... \end{matrix}$
 , which is a vector of size 10000 with all zeros except at position 1. Similarly, the second, third, …, words can be defined as 
-$\begin{bmatrix} 0 1 0 0 ... \end{bmatrix}$
-,$\begin{bmatrix} 0 0 1 0 ... \end{bmatrix}$
+$\begin{bmatrix} 0 & 1 & 0 & 0 & ... \end{bmatrix}$
+,$\begin{bmatrix} 0 & 0 & 1 & 0 & ... \end{bmatrix}$
 . So, the i<sup>th</sup> word will be a vector of size 10,000 with all zeros except a 1 at the i<sup>th</sup> position.
 
 Now, we have a way to feed the words into the NN. But the notion of distance that we had in case of images is not present. All words are equidistant from all other words. Secondly, the dimension of the input is huge. Your vocabulary size could easily go to 100,000 or more.
