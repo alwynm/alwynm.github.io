@@ -19,7 +19,7 @@ Let’s say your vocabulary has 10000 words, and you have defined an ordering ov
 $ \left[\begin{matrix} 00 & 01 & 02 \end{matrix}\right] $
 </center>
 
-$\begin{bmatrix} "a" \end{bmatrix}$
+$\begin{bmatrix} ``a" \end{bmatrix}$
 as $\begin{bmatrix} 1 & 0 & 0 & 0 &... \end{bmatrix}$
 , which is a vector of size 10000 with all zeros except at position 1. Similarly, the second, third, …, words can be defined as 
 $\begin{bmatrix} 0 & 1 & 0 & 0 & ... \end{bmatrix}$
