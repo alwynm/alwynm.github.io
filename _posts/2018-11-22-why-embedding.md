@@ -16,7 +16,7 @@ But if your data is text, in particular, sentences which are not numerical make 
 Let’s say your vocabulary has 10000 words, and you have defined an ordering over these words - “a”, “the”, “they”, “are”, “have”, etc. Now, you can represent the first word in the ordering 
 
 <center>
-$\begin{bmatrix} \`a\` \end{bmatrix}$
+$\begin{bmatrix} \`a' \end{bmatrix}$
 as $\begin{bmatrix} 1 & 0 & 0 & 0 &... \end{bmatrix}$, 
 </center>
 
@@ -37,12 +37,12 @@ Instead of having a sparse vector for each word, you can have a dense vector for
 
 So, for instance, 
 
-$\begin{bmatrix} \`a\` \end{bmatrix}$ could be represented as 
+$\begin{bmatrix} \`a' \end{bmatrix}$ could be represented as 
 <center>
 $\begin{bmatrix} 0.13 & 0.46 & 0.85 & 0.96 & 0.66 & 0.12 & 0.01 & 0.38 & 0.76 & 0.95 \end{bmatrix}$, 
 </center>
  
-$\begin{bmatrix} \`a\` \end{bmatrix}$ could be represented as 
+$\begin{bmatrix} \`a' \end{bmatrix}$ could be represented as 
 <center>
 $\begin{bmatrix} 0.73 & 0.45 & 0.25 & 0.91 & 0.06 & 0.16 & 0.11 & 0.36 & 0.76 & 0.98 \end{bmatrix}$, 
 </center>
