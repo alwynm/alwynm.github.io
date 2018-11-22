@@ -4,7 +4,6 @@ title: Why embedding?
 categories: ML
 use_math: true
 ---
-<div style="text-align: justify">
 
 As artificial neural networks(NN) only take numbers as input, we should somehow convert our data into numerical format. Images are represented as a matrix where each pixel value corresponds to an intensity value which makes them easier to feed into a network directly. Grayscale images are 2D matrices and RGB images are 3D matrices.
 
@@ -50,5 +49,3 @@ $\begin{bmatrix} 0.73 & 0.45 & 0.25 & 0.91 & 0.06 & 0.16 & 0.11 & 0.36 & 0.76 & 
 and so on. 
  
 The size of the vectors is a hyperparameter, set using cross-validation. So, how do you feed these dense vector representations of words into the network? The answer is an embedding layer - you will have an embedding layer that is essentially a matrix of size 10000 x 10 \[or more generally,  vocab_size×dense_vector_size\]. For every word, you have an index in the vocabulary, like "a" -> 0, "the" -> 1, etc., and you simply look up the corresponding row in the embedding matrix to get its 10-dimensional representation as the output. Another advantage of embedding is that, its trainable. For instance, you can initialize the embedding layer randomly, and train it with the other layers. You could also fix or fine tune embedding while using pretrained word vectors for the words.
-
-</div>
