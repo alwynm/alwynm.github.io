@@ -35,9 +35,10 @@ gems:
 timezone: Asia/Kolkata
 
 pages_list:
-  About: '/about'
+  # About: '/about'
   # Blog: '/blog/'
   Teaching: '/teaching'
+  Projects: '/projects'
 
 twitter_username:     alwyn_mathew
 github_username:      alwynmathew
