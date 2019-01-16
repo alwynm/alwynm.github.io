@@ -39,6 +39,7 @@ pages_list:
   # Blog: '/blog/'
   Teaching: '/teaching'
   Projects: '/projects'
+  Misc: '/misc'
 
 twitter_username:     alwyn_mathew
 github_username:      alwynmathew
