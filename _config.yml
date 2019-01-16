@@ -46,3 +46,6 @@ github_username:      alwynmathew
 linkedin_username:    alwynmathew
 
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
