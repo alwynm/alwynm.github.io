@@ -13,4 +13,3 @@ I'm a PhD student at IIT Patna under the supervision of [Dr. Jimson Mathew](http
 * Bosch DNA Challenge finalist (2017)
 * Subreviewer of ISED 2017
 * PC member of ICSCC 2017
-* Secured second place at IoT Grand challenge, IIT Patna (2016)
