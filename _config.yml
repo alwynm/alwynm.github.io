@@ -3,7 +3,7 @@ permalink:          /blog/:categories/:title
 
 # Setup
 title:               Alwyn Mathew
-tagline:             PhD student
+tagline:             IIT Patna
 url:                 http://getpoole.com
 paginate:            1
 # baseurl:             ""
