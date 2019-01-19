@@ -8,7 +8,7 @@ title: Misc
 * System and method for detecting change in occupancy of a slot over a platform. Zenin Easa P, Dhawal Gupta, Jimson Mathew, Alwyn Mathew. 2017 (patent pending)
 
 
-### Achivements
+### News Archive
 
 * Top 35 in Patna ideathon, Govt. of Bihar (2018)
 * Subreviewer of ISED 2018
