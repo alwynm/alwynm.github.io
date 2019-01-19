@@ -7,7 +7,7 @@ title: Externallinks
 ### Basic
 
 * Neural Networks for Machine Learning by Geoffrey Hinton [[Video]](https://www.cs.toronto.edu/~hinton/coursera_lectures.html)
-* Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville [[Book]](https://www.deeplearningbook.org/)
+* Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron [[Book]](https://www.deeplearningbook.org/)
 * Neural Networks and Deep Learning by Michael A Nielsen [[Book]](http://neuralnetworksanddeeplearning.com/)
 * Stanford CS109 [[Slide]](http://web.stanford.edu/class/cs109/)
 * Stanford CS229 [[Slide]](http://cs229.stanford.edu/)
