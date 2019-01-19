@@ -16,3 +16,5 @@ title: Teaching
 * CEP Course 11/12/18: Introduction to CNN [[Materials]](https://github.com/alwynmathew/CEP-DLcourse)
 * CS299 30/12/17: Microsoft Kinect hands-on [[Code]](https://github.com/alwynmathew/libfreenect-with-python)[[Code]](https://github.com/alwynmathew/Kinect-for-windows)[[Code]](https://github.com/alwynmathew/Processing-for-Kinect)
 * CS299 30/12/17: Introduction to Microsoft Kinect [[Slide]](https://drive.google.com/open?id=1p61ZeACxnCZI3NgO7dgDJBDj5aCoMIzD)
+
+[External links](externallinks.md) for Deep learning materials.
