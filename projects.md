@@ -16,7 +16,7 @@ title: Projects
 
 * 2018: Gesture control IoT devices with Kinect (Prakash Kumar & Naveen)
 * 2018: Kinect PlayFit (Prakash Kumar & Naveen)
-* 2017: Automated two-wheeler parking system (Zenin Easa P & Dhawal Gupta)
+* 2017: Automated two-wheeler parking system (Zenin & Dhawal)
 
 ### Postgrad
 
