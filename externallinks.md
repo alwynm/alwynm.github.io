@@ -32,4 +32,4 @@ title: Externallinks
 * UC Berkeley Deep Reinforcement [[Slide]](http://rail.eecs.berkeley.edu/deeprlcourse/)
 * Automatic Differentiation by David Barber [[Slide]](http://web4.cs.ucl.ac.uk/staff/D.Barber/publications/AMLAutoDiff.pdf)
 
-*Please ping {% if site.author.email %}<a href="mailto:{{ site.author.email }}">me</a>{% endif %}, if any link dies.*
+*Please ping {% if site.author.email %}<a href="mailto:{{ site.author.email }}">me</a>{% endif %}, if you find any dead links.*
