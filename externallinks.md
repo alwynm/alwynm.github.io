@@ -7,7 +7,7 @@ title: Externallinks
 
 * Linear Algebra [[Book]](http://math.mit.edu/~gs/linearalgebra/)[[Video]](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * Probability and Information Theory [[Book]](https://drive.google.com/file/d/1nxUBdXUQ0D7o4YOnxPm7pj7YdN5uweK-/view?usp=sharing)[[Solution Manual]](https://drive.google.com/open?id=1uNm51BTYXRcDB0Omxir8JqCowv9Ar7eG)
-* Numerical Computation [[Book]](https://www.deeplearningbook.org/contents/numerical.html)[[Book]](https://drive.google.com/file/d/1bH82JO3jYphfo00xxr2X1xeJX1sMT6xp/view?usp=sharing)[[Book]](https://drive.google.com/file/d/1o61qWsyEXpcce1q21zW6qnWCfTCu2xFJ/view?usp=sharing)
+* Numerical Computation [[Book]](https://drive.google.com/file/d/1bH82JO3jYphfo00xxr2X1xeJX1sMT6xp/view?usp=sharing)[[Book]](https://drive.google.com/file/d/1o61qWsyEXpcce1q21zW6qnWCfTCu2xFJ/view?usp=sharing)
 * Calculus [[Video]](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ### Basic
