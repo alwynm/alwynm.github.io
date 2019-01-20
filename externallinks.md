@@ -3,6 +3,12 @@ layout: page
 title: Externallinks
 ---
 
+### Prerequisite
+
+* Linear Algebra [[Book]](http://math.mit.edu/~gs/linearalgebra/)[[Video]](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* Probability and Information Theory [[Book]](https://drive.google.com/file/d/1nxUBdXUQ0D7o4YOnxPm7pj7YdN5uweK-/view?usp=sharing) [[Solution Manual]](https://drive.google.com/open?id=1uNm51BTYXRcDB0Omxir8JqCowv9Ar7eG)
+* Numerical Computation [[Book]](https://www.deeplearningbook.org/contents/numerical.html)
+* Calculus [[Video]](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ### Basic
 
@@ -13,7 +19,6 @@ title: Externallinks
 * Stanford CS229 [[Slide]](http://cs229.stanford.edu/)
 * Stanford UFLDL [[Web]](http://ufldl.stanford.edu/tutorial/)
 
-
 ### Intermediate
 
 * Stanford CS231 [[Slide]](http://cs231n.stanford.edu/)
@@ -21,7 +26,6 @@ title: Externallinks
 * Deep Learning by Google [[Free Online Course]](https://eu.udacity.com/course/deep-learning--ud730#)
 * Deep Learning by Andrew Ng [[Paid Online Course]](https://www.coursera.org/specializations/deep-learning)
 * Colah's blog [[Web]](http://colah.github.io/)
-
 
 ### Advance
 
