@@ -18,3 +18,9 @@ title: Teaching
 * CS299 30/12/17: Introduction to Microsoft Kinect [[Slide]](https://drive.google.com/open?id=1p61ZeACxnCZI3NgO7dgDJBDj5aCoMIzD)
 
 [External links](teaching/externallinks) to deep learning materials.
+
+### Random stuffs
+
+* [Anaconda commands](rand/anacondacmd)
+* [Work with remove server](rand/linuxserver)
+* [Install Pytorch, Tensorflow and Keras](rand/dllib)

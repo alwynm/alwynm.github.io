@@ -3,15 +3,9 @@ layout: page
 title: Misc
 ---
 
-<!-- ### Patents
+### Patents
 
-* System and method for detecting change in occupancy of a slot over a platform. Zenin Easa P, Dhawal Gupta, Jimson Mathew, Alwyn Mathew. 2017 (patent pending) -->
-
-### Random stuffs
-
-* [Anaconda commands](misc/anacondacmd)
-* [Work with remove server](misc/linuxserver)
-* [Install Pytorch, Tensorflow and Keras](misc/dllib)
+* System and method for detecting change in occupancy of a slot over a platform. Zenin Easa P, Dhawal Gupta, Jimson Mathew, Alwyn Mathew. 2017 (patent pending)
 
 
 ### News Archive
