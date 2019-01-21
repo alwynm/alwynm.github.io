@@ -4,8 +4,7 @@ title: Install Pytorch, Tensorflow and Keras
 ---
 
 ### Install Pytorch
-{% highlight js %} 
-conda create --name <env-name> python=<version-no.>
+{% highlight js %}conda create --name <env-name> python=<version-no.>
 source activate <env-name>
 conda install pytorch-cpu torchvision-cpu -c pytorch # cpu version
 conda install pytorch torchvision -c pytorch # gpu version, select appropiate CUDA version
