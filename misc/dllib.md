@@ -11,8 +11,9 @@ conda create --name <env-name> python=<version-no.>
 source activate <env-name>
 conda install pytorch-cpu torchvision-cpu -c pytorch # cpu version
 conda install pytorch torchvision -c pytorch # gpu version, select appropiate CUDA version
-<!-- {% endhighlight %} -->
 </code>
+<!-- {% endhighlight %} -->
+
 
 Install tensorflow
 
