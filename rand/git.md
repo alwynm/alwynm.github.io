@@ -13,7 +13,7 @@ Create a new local repository
 
 Add one or more files to staging
 {% highlight js %}git add <filename>
-	git add *
+git add *
 {% endhighlight %}
 
 Commit changes to head (but not yet to the remote repository)
