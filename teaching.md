@@ -21,7 +21,7 @@ title: Teaching
 
 ### Random stuffs
 
-* Anaconda commands [[Link]](rand/anacondacmd)
+* Anaconda commands [[Link]](rand/conda)
 * Work with remove server [[Link]](rand/linuxserver)
 * Install Pytorch, Tensorflow and Keras [[Link]](rand/dllib)
 * Work with Git [[Link]](rand/git)

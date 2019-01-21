@@ -3,6 +3,8 @@ layout: page
 title: Install Pytorch, Tensorflow and Keras
 ---
 
+Deep learning frameworks offer building blocks for designing, training and validating deep neural networks, through a high level programming interface. Widely used deep learning frameworks such as Caffe2, Cognitive toolkit, MXNet, PyTorch, TensorFlow and others rely on GPU-accelerated libraries such as cuDNN and NCCL to deliver high-performance multi-GPU accelerated training. 
+
 ### Install Pytorch
 {% highlight js %}conda create --name <env-name> python=<version-no.>
 source activate <env-name>
