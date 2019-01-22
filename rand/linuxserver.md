@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Work with remove server
+title: Work with remove linux server
 ---
 
-### Work with remove server
+### Work with remove linux server
 
 Login server
 {% highlight js %}ssh <user-name>@<ip>
