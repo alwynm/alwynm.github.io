@@ -3,7 +3,9 @@ layout: page
 title: Anaconda commands
 ---
 
-Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. Package versions are managed by the package management system conda. Download Anaconda from [here](https://www.anaconda.com/download/)
+### Anaconda
+
+Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. Package versions are managed by the package management system conda. Download Anaconda from [here](https://www.anaconda.com/download/).
 
 Create conda environment
 {% highlight js %}conda create --name <env-name> python=<version-no.>
