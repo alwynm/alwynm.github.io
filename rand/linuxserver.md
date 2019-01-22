@@ -14,8 +14,7 @@ Login server with graphic support
 {% endhighlight %}
 
 Copy files/folder to/from server
-{% highlight js %}rcp -r <source/path/to/folder> <username>@<ip>:<path/to/folder> // to server
-rcp -r <username>@<ip>:<path/to/folder>  <source/path/to/folder> // from server
+{% highlight js %}rcp -r <source/path/to/folder> <username>@<ip>:<path/to/folder>
 {% endhighlight %}
 
 Mount remote Linux filesystem
