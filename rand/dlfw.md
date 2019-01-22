@@ -21,7 +21,7 @@ source activate <env-name>
 pip install tensorflow==<version-no.> // cpu version
 pip install tensorflow-gpu==<version-no.> // gpu version 
 {% endhighlight %}
-Compatibility of tensorflow with appropiate CUDA verison from [here](https://www.tensorflow.org/install/source)
+Compatibility of tensorflow-gpu with appropiate CUDA verison from [here](https://www.tensorflow.org/install/source)
 
 ### Install [Keras](https://keras.io/#installation) with Tensorflow
 {% highlight js %}conda create --name keras python=<version-no.>
