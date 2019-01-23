@@ -7,6 +7,10 @@ title: Install Pytorch, Tensorflow and Keras
 
 Deep learning frameworks offer building blocks for designing, training and validating deep neural networks, through a high level programming interface. Widely used deep learning frameworks such as Caffe2, Cognitive toolkit, MXNet, PyTorch, TensorFlow and others rely on GPU-accelerated libraries such as cuDNN and NCCL to deliver high-performance multi-GPU accelerated training. 
 
+### Check CUDA version
+{% highlight js %}nvcc --version // for gpu
+{% endhighlight %}
+
 ### Install [Pytorch](https://pytorch.org/)
 {% highlight js %}conda create --name <env-name> python=<version-no.>
 source activate <env-name>
@@ -28,10 +32,6 @@ Compatibility of tensorflow-gpu with appropiate CUDA verison from [here](https:/
 source activate keras
 pip install tensorflow==<version-no.> // use gpu or cpu version
 pip install keras
-{% endhighlight %}
-
-### Check CUDA version
-{% highlight js %}nvcc --version
 {% endhighlight %}
 
 
