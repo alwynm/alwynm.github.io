@@ -4,7 +4,8 @@ permalink:          /blog/:categories/:title
 # Setup
 title:               Alwyn Mathew
 tagline:             IIT Patna
-url:                 http://getpoole.com
+url:                 
+# url:                 http://getpoole.com
 paginate:            1
 # baseurl:             ""
 baseurl:             https://alwynm.github.io/
