@@ -30,3 +30,8 @@ pip install tensorflow==<version-no.> // use gpu or cpu version
 pip install keras
 {% endhighlight %}
 
+### Check CUDA version
+{% highlight js %}nvcc --version
+{% endhighlight %}
+
+
