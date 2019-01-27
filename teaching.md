@@ -6,7 +6,7 @@ title: Teaching
 ### News
 
 * EE514: Assignment will be posted soon at Goolge classroom.
-* EE514: Joing [Google classroom](http://classroom.google.com/) with code  <font color="red">rqqc859</font>. 
+* EE514: Join [Google classroom](http://classroom.google.com/) with code  <font color="red">rqqc859</font>. 
 
 
 ### Study Materials
