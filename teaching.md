@@ -3,14 +3,13 @@ layout: page
 title: Teaching
 ---
 
+### News
 
-### Teaching Assistant
+* EE514: Assignment will be posted soon at Goolge classroom.
+* EE514: Joing [Google classroom](http://classroom.google.com/) with code  <font color="red">rqqc859</font>. 
 
-* CS225: Switching Theory
-* CS421: Computer Peripherals and Interfacing
-* EE514: High Performance Computing Systems
 
-### Materials
+### Study Materials
 
 * EE514 23/01/19: Multilayer perceptron hands-on [[Code]](https://drive.google.com/drive/folders/1Nn6N0GopiXFUVvRA5Z3rTWJ7Yp7qm4Rd?usp=sharing)
 * EE514 23/01/19: Math behind backpropagation [[Slide]](https://drive.google.com/file/d/1fcvALsno1d4W10wlUYWvi-hXI_yhqNq0/view?usp=sharing)

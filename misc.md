@@ -8,6 +8,13 @@ title: Misc
 * System and method for detecting change in occupancy of a slot over a platform. Zenin Easa P, Dhawal Gupta, Jimson Mathew, Alwyn Mathew. 2017 (patent pending)
 
 
+### Teaching Assistant
+
+* CS225: Switching Theory
+* CS421: Computer Peripherals and Interfacing
+* EE514: High Performance Computing Systems
+
+
 ### News Archive
 
 * Top 35 in Patna ideathon, Govt. of Bihar (2018)
