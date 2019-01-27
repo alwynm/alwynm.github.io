@@ -32,6 +32,14 @@ List the files you've changed and those you still need to add or commit
 {% highlight js %}git status
 {% endhighlight %}
 
+Take your uncommitted changes (both staged and unstaged), saves them away for later use
+{% highlight js %}git stash
+{% endhighlight %}
+
+Throws away the (topmost, by default) stash after applying it
+{% highlight js %}git stash pop
+{% endhighlight %}
+
 Create a new branch and switch to it
 {% highlight js %}git checkout -b <branchname>
 {% endhighlight %}
