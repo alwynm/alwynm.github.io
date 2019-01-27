@@ -6,7 +6,7 @@ title: Teaching
 ### News
 
 * EE514: Assignment-1 will be posted soon at Google classroom
-* EE514: Join [Google classroom](http://classroom.google.com/) with code  <font color="red">rqqc859</font>![new](http://vtirohtak.edu.in/images/slider/newicon.gif){:height="40px"}
+* EE514: ![new](http://vtirohtak.edu.in/images/slider/newicon.gif){:height="40px"} Join [Google classroom](http://classroom.google.com/) with code  <font color="red">rqqc859</font>
 
 
 ### Study Materials
