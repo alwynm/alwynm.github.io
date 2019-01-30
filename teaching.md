@@ -5,8 +5,8 @@ title: Teaching
 
 ### News
 
-* EE514: Assignment-2 will be due on 11/02/19 [Link](https://classroom.google.com/c/Mjc2MTQxODI2OTFa/a/Mjc3NDYwNjIwODNa/details)
-* EE514: Assignment-1 will be due on 04/02/19 [Link](https://classroom.google.com/c/Mjc2MTQxODI2OTFa/a/Mjc2NDg4NDE4NDda/details)
+* EE514: Assignment-2 will be due on 11/02/19 [[Link]](https://classroom.google.com/c/Mjc2MTQxODI2OTFa/a/Mjc3NDYwNjIwODNa/details)
+* EE514: Assignment-1 will be due on 04/02/19 [[Link]](https://classroom.google.com/c/Mjc2MTQxODI2OTFa/a/Mjc2NDg4NDE4NDda/details)
 * EE514: Join [Google classroom](http://classroom.google.com/) with code <font color="red">rqqc859</font>
 
 ### Study Materials
