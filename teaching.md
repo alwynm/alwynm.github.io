@@ -5,6 +5,7 @@ title: Teaching
 
 ### News
 
+* EE514: Assignment-2 will be due on 09/02/19
 * EE514: Assignment-1 will be due on 04/02/19
 * EE514: Join [Google classroom](http://classroom.google.com/) with code <font color="red">rqqc859</font>
 
