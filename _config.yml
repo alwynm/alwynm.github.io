@@ -37,7 +37,7 @@ timezone: Asia/Kolkata
 
 pages_list:
   # About: '/about'
-  # Blog: '/blog/'
+  Blog: '/blog'
   Teaching: '/teaching'
   Projects: '/projects'
   Misc: '/misc'
