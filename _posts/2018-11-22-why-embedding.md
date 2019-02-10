@@ -3,6 +3,7 @@ layout: post
 title: Why embedding?
 categories: Tech
 use_math: true
+ready : true
 ---
 
 As artificial neural networks(NN) only take numbers as input, we should somehow convert our data into numerical format. Images are represented as a matrix where each pixel value corresponds to an intensity value which makes them easier to feed into a network directly. Grayscale images are 2D matrices and RGB images are 3D matrices.
