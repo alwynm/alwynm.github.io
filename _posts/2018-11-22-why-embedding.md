@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why embedding?
-categories: ML
+categories: Research
 use_math: true
 ---
 
