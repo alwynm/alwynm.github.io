@@ -7,7 +7,7 @@ title: Blog
   {% capture category_name %}{{ category | first }}{% endcapture %}
   <h2> {{ category_name | slugize }} </h2>
   {% for post in site.categories[category_name] %}
-  {% if product.ready == 'true' %}
+  {% if post.ready == 'true' %}
   * [ {{ post.title }} ]({{ post.url }})
   {% endif %}
   {% endfor %}
