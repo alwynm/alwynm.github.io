@@ -2,41 +2,27 @@
 layout: post
 title: Advice before joining PhD
 categories: Personal
+ready : true
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+## Advice before joining PhD
 
------
+* ### Think twice
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
+Joining a Ph.D. is a big commitment which most people doesn't realize. Don't join if you can't commit yourself solely in research. It's not as easy as working from 10 am to 5 pm at a tech company. Yeah, working at a tech company isn't that easy but that how Ph.D. will be. Make sure you have a clear answer to these: Why are you doing it? Is your reason convincing enough? What is that you wish to achieve after the course? Talk to as many Ph.D. scholars as possible and get an insight. 
 
-There are currently three themes built on Poole:
+* ### Research goal
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-* [Enfield](http://enfield.getpoole.com)
+You should have a clear cut research path that you want to follow when you're doing your Ph.D. Yeah, it's difficult to know what you're going to do in your Ph.D. but if you do, it will be a huge boost. When you're approaching a professor requesting Ph.D. guidance, past research experiences and clear research plans will move you up in ranking. Even though many of the proposed research plans may not worth a doctoral degree, it gives a sense of how prepared you are.
 
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
+* ### Choose supervisor
 
-### What's included
+Pick a university based on the supervisor you need, not the other way around. A supervisor is going to be everything for you during Ph.D., so choose wisely. Last five-year research publications of a person can tell a lot more about him/her research. Always look for professors that are active in your research area. Shortlist professors and contact them personally or via mail expressing your interest. Talk to other researcher working under him to get a much better bird eye view on what you're getting into.
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
+* ### Choose school
 
-* Complete Jekyll setup included (layouts, config, [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and [example page]({{ site.baseurl }}/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Jekyll's built-in support for Rouge
+Look for school in which they have a dedicated research group of your interest. Research groups are great, they can give you a different perspective on your research ideas, which may lead to even solving challenging problems you may face that you though is unsolvable. Validating your ideas with extra minds will be always good, I promise you. Another key thing you should think about it, Do your school have adequate lab facilities to meet your research requirements? Most schools which hold above requirements will mostly hold this too, but make sure it does.
 
-Additional features are available in individual themes.
+* ### Right time
 
-### Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
-
-Thanks!
+Take yourself time to make your discussion. Don't jump into conclusion just because you got an offer letter from top schools or money you get paid. If you're in a great institute with a supervisor that doesn't fit you, you're going to suffer. Keep walking, if it's not the right one for you.
