@@ -50,3 +50,11 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
+
+defaults:
+  -
+    scope:
+      path: "blog" # an empty string here means all files in the project
+    values:
+      use_math: false
+      ready : false
