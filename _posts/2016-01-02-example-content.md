@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-categories: ML
+<!-- categories: ML -->
 use_math: false
 ---
 

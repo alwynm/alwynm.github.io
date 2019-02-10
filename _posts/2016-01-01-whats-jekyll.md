@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's Jekyll?
-categories: ML
+<!-- categories: ML -->
 use_math: true
 ---
 

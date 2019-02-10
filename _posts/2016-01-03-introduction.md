@@ -1,7 +1,7 @@
 ---
 layout: post
-title: hi
-categories: Personal
+title: Advice before joining PhD
+categories: Others
 use_math: false
 ---
 
