@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why embedding?
-categories: Research
+categories: Tech
 use_math: true
 ---
 
