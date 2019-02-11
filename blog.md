@@ -8,7 +8,7 @@ title: Blog
   <h2> {{ category_name | slugize }} </h2>
   {% for post in site.categories[category_name] %}
   {% if post.ready %}
-  * [ {{ post.title }} ]({{ post.url }})
+  * [ {{ post.title }} ]({{ post.url }}) &raquo; {{ post.date | date_to_string }}
   {% endif %}
   {% endfor %}
 {% endfor %}
