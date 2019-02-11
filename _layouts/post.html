@@ -19,7 +19,7 @@ layout: default
           {% assign match = true %}
         {% endif %}
       {% endfor %}
-      {% if match %}
+      {% if match and post.ready%}
         <li>
           <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
