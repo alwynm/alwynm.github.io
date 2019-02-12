@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advice before joining PhD
-categories: Personal
+categories: General
 ready : true
 ---
 
@@ -24,5 +24,3 @@ Look for school which has dedicated research group of your interest. Research gr
 * ### Right time
 
 Take your own time to make discussions. Don't jump into conclusion just because you got an offer letter from top schools or money you get paid. If you're in a great institute with a supervisor that doesn't fit you, you're going to suffer. Keep walking if you're in the wrong place at wrong time, there is always second chance.
-
-PS: I learned it the hard way.
