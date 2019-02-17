@@ -7,7 +7,7 @@ title: IITP DC++
 
 IP: **172.16.28.113** (subject to change) 
 
-### Popular DC client:
+### Popular DC clients
 
 * [Windows](http://dcplusplus.sourceforge.net/)
 * [Linux](https://launchpad.net/linuxdcpp)
