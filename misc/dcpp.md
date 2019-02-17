@@ -3,7 +3,7 @@ layout: page
 title: IITP DC++
 ---
 
-## DC++ IITP
+## DC IITP
 
 IP: **172.16.28.113** (subject to change) 
 
