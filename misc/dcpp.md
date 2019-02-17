@@ -15,9 +15,9 @@ IP: **172.16.28.113** (subject to change)
 
 #### Basic rules
 
-* Minimum limit for connecting is: **0 GiB**
+* Minimum limit for connecting: **0 GiB**
 * Minimum limit for searching and downloading: **1 GiB** (subject to change) 
 
-#### Add folder you like to share to DC
+#### How to share your files
 
-File -> Settings(Preferences) -> Sharing
+File -> Settings(Preferences) -> Sharing -> Add
