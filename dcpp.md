@@ -17,6 +17,6 @@ Minimum limit for connecting is: **0 GiB**
 
 Minimum limit for searching and downloading: **1 GiB** (subject to change) 
 
-### Add the folder you like to share
+### Add folder you like to share to DC
 
 File -> Settings(Preferences) -> Sharing
