@@ -11,7 +11,7 @@ IP: **172.16.28.113** (subject to change)
 
 * [dcplusplus](http://dcplusplus.sourceforge.net/) (Windows)
 * [linuxdcpp](https://launchpad.net/linuxdcpp) (Linux)
-* [cornelldc](http://www.cornelldc.com/) (Mac)
+* [cornelldc](http://www.cornelldc.com/mac/index.php) (Mac)
 
 #### Basic rules
 
