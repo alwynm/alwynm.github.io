@@ -5,7 +5,7 @@ title: IITP DC++
 
 ## DC IITP
 
-IP: **172.16.28.113** (subject to change) 
+DC IP: **172.16.28.113** (subject to change) 
 
 #### Popular DC clients
 
@@ -17,6 +17,10 @@ IP: **172.16.28.113** (subject to change)
 
 * Minimum limit for connecting: **0 GiB**
 * Minimum limit for searching and downloading: **1 GiB** (subject to change) 
+
+#### How to connect
+
+File -> Quick Connect -> Hub address(DC IP)
 
 #### How to share your files
 
