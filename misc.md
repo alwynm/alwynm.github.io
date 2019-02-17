@@ -23,3 +23,5 @@ title: Misc
 * Subreviewer of ISED 2017
 * PC member of ICSCC 2017
 * Secured second place at IoT Grand challenge, IIT Patna (2016)
+
+IIT Patna DC++ details [[here]](misc/dcpp)
