@@ -15,7 +15,7 @@ IP: **172.16.28.113** (subject to change)
 
 Minimum limit for connecting is: **0 GiB**
 
-For searching and downloading: **1 GiB** (subject to change) 
+Minimum limit for searching and downloading: **1 GiB** (subject to change) 
 
 ### Add the folder you like to share
 
