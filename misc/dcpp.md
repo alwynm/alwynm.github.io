@@ -9,9 +9,9 @@ IP: **172.16.28.113** (subject to change)
 
 ### Popular DC clients
 
-* [Windows](http://dcplusplus.sourceforge.net/)
-* [Linux](https://launchpad.net/linuxdcpp)
-* [Mac](http://www.cornelldc.com/)
+* [dcplusplus](http://dcplusplus.sourceforge.net/) (Windows)
+* [linuxdcpp](https://launchpad.net/linuxdcpp) (Linux)
+* [cornelldc](http://www.cornelldc.com/) (Max)
 
 Minimum limit for connecting is: **0 GiB**
 
