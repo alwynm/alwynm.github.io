@@ -5,7 +5,10 @@ title: IITP DC++
 
 ## DC IITP
 
-DC IP: **172.16.28.113** (subject to change) 
+Status: <span style="color:green">UP</span>
+<!-- Status: <span style="color:red">DOWN</span> -->
+
+Hub IP: **172.16.28.113** (subject to change) 
 
 #### Popular DC clients
 
@@ -20,7 +23,7 @@ DC IP: **172.16.28.113** (subject to change)
 
 #### How to connect
 
-File -> Quick Connect -> Hub address(DC IP)
+File -> Quick Connect -> Hub address(Hub IP)
 
 #### How to share your files
 
