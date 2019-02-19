@@ -17,7 +17,7 @@ Let's say, you have applied an affine transformation(translation and rotation an
 As we are manipulation the pixel location, we will construct a grid where each grid values is the location of pixels on the source image. Apply the transformation to this grid to get the desired tranformed grid. Use tranformed grid to look back at the source image and copy pixel values to that output pixel. This is commonly called forward mapping.
 
 <p align="center">
-  <img src="https://www.mathworks.com/content/mathworks/www/en/company/newsletters/articles/https://blogs.mathworks.com/images/steve/53/forward_mapping_a.png" alt="forward mapping">
+  <img src="https://blogs.mathworks.com/images/steve/53/forward_mapping_a.png" alt="forward mapping">
 </p>
 
 ### Why you shouldn't use it?
