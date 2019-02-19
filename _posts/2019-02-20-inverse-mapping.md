@@ -5,7 +5,7 @@ categories: Research
 ready : true
 ---
 
-Let's say, you have applied an affine transformation(translation and rotation and scaling) to an image. Applying these transformations will translate, rotate or rotate the image i.e., we have to move the pixel location of the source image according to the transformation to the target image. As discussed in the [last post](blog/research/forward-mapping), forward mapping has two disadvantages. We could use inverse mapping to solve these problems.
+Let's say, you have applied an affine transformation(translation and rotation and scaling) to an image. Applying these transformations will translate, rotate or rotate the image i.e., we have to move the pixel location of the source image according to the transformation to the target image. As discussed in the [last post](forward-mapping), forward mapping has two disadvantages. We could use inverse mapping to solve these problems.
 
 ### What is inverse mapping?
 
