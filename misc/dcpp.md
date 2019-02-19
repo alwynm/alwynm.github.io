@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IITP DC++
+title: DC IITP
 ---
 
 ## DC IITP
