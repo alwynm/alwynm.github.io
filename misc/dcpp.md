@@ -28,3 +28,8 @@ File -> Quick Connect -> Hub address(Hub IP)
 #### How to share your files
 
 File -> Settings(Preferences) -> Sharing -> Add
+
+#### FAQ
+
+* How to connect to DC after fresh DC client install?
+Ans: Make sure you have username(nickname) set in your client. Some DC clients doesnt ask users to set username(nickname) on initial startup. Try to reconnect after setting a valid Username(Nick) manually in your client. File -> Settings(Preferences) -> Personal -> Username(Nick).
