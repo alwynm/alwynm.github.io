@@ -11,5 +11,6 @@ Let's say, you have applied an affine transformation(translation and rotation an
 
 Instead of transforming source grid and map from source to destination pixels, here we apply the inverse transformation on destination grid and map pixels from destination to source. We should use some interpolation method to find the approximate pixel values in the source as the inverse transformed grid will not fall exactly on a grid point on the source.
 
-<img align="center" src="https://blogs.mathworks.com/images/steve/55/inverse_mapping.png" alt="inverse mapping">
-
+<p align="center">
+  <img src="https://blogs.mathworks.com/images/steve/55/inverse_mapping.png" alt="inverse mapping">
+</p>
