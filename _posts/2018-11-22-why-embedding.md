@@ -10,9 +10,9 @@ As artificial neural networks(NN) only take numbers as input, we should somehow 
 
 But if your data is text, in particular, sentences which are not numerical make it incompatible to use it directly on the network. Thus, we need to convert these text into some kind of numerical values.
 
-# How would you feed a word to an NN?
+## How would you feed a word to an NN?
 
-## One-hot vectors
+### One-hot vectors
 
 Let’s say your vocabulary has 10000 words, and you have defined an ordering over these words - “a”, “the”, “they”, “are”, “have”, etc. Now, you can represent the first word in the ordering 
 
@@ -32,7 +32,7 @@ So, the i<sup>th</sup> word will be a vector of size 10000 with all zeros except
 
 Now, we have a way to feed the words into the NN. But the notion of distance that we had in case of images is not present. All words are equidistant from all other words. Secondly, the dimension of the input is huge. Your vocabulary size could easily go to 100,000 or more.
 
-## Embedding
+### Embedding
 
 Instead of having a sparse vector for each word, you can have a dense vector for each word, that is, multiple elements of the vector are nonzero and each element of the vector can take continuous values. This immediately reduces the size of the vector. You can have an infinite number of unique vectors of size, say 10, where each element can take any arbitrary value \[as opposed to one-hot vectors where each element could take only values 0 or 1\]. 
 
