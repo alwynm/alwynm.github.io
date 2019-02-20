@@ -20,9 +20,9 @@ As we are manipulation the pixel location, we will construct a grid where each g
   <img src="https://blogs.mathworks.com/images/steve/53/forward_mapping_a.png" alt="forward mapping">
 </p>
 
-### Why you shouldn't use it?
+### Why you shouldn't use forward mapping?
 
-Forward mapping has two main disadvantages as a computational procedure: gaps and overlaps. Depending on the specific spatial transform function, you may have some output pixels that did not receive any input image pixels; these are the gaps. You may also have some output pixels that received more than one input image pixel; these are the overlaps. In both cases, it is challenging to figure out a reasonable way to set those output pixels. 
+Forward mapping maybe the straight forward mapping you can think of, but it has two main disadvantages as a computational procedure: gaps and overlaps. Depending on the specific spatial transform function, you may have some output pixels that did not receive any input image pixels; these are the gaps. You may also have some output pixels that received more than one input image pixel; these are the overlaps. In both cases, it is challenging to figure out a reasonable way to set those output pixels. 
 
 <p align="center">
   <img src="https://blogs.mathworks.com/images/steve/53/forward_mapping_b.png" alt="forward mapping problems">
