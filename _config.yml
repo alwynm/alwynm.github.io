@@ -31,6 +31,7 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-sitemap
 
 timezone: Asia/Kolkata
 
@@ -49,7 +50,6 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
 
 defaults:
   -
