@@ -8,8 +8,8 @@ title: Projects
 #### Major projects
 
 * 2019: End-to-end load scheduling (Milan Jitendra Jolly)
-* 2018: Depth estimation from monocular temporal data (Anand Majumder)
-* 2018: Load scheduling with AI (Abijith)
+* 2018: Real-time object detection system at edge (Anand Majumder)
+* 2018: Load scheduling with AI (Abijith Roy)
 * 2018: Depth estimation from uncalibrated camera (Aditya Prakash Patra)
 
 #### Minor projects
@@ -20,5 +20,6 @@ title: Projects
 
 ### Postgrad
 
+* 2019: Deception detection using EEG signals (Abhijith V Nair)
 * 2018: Muiltobject tracking using deep neural network (Himani Srivastava)
 * 2017: Facial recognition system (Kamal Singh)
