@@ -7,7 +7,7 @@ ready : true
 
 * ### Think twice
 
-Joining a Ph.D. is a big commitment which most people doesn't realize. Don't join if you can't commit yourself solely for research. It's not as easy as working from 10 am to 5 pm at a tech company. Yeah, working at a tech company isn't that easy but that how Ph.D. will be. Make sure you have a clear answer to these: Why are you doing it? Is your reason convincing enough? What is that you wish to achieve after the course?
+Joining a Ph.D. is a big commitment which most people doesn't realize. Don't join if you can't commit yourself solely to research. It's not as easy as working from 10 am to 5 pm at a tech company. Yeah, working at a tech company isn't that easy but that how Ph.D. will be. Make sure you have a clear answer to these: Why are you doing it? Is your reason convincing enough? What is that you wish to achieve after the course?
 
 * ### Research goal
 
