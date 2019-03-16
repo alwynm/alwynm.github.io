@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: post
 title: Work with remote linux server
+categories: How-to
+ready : true
 ---
 
 ### Work with remote linux server
