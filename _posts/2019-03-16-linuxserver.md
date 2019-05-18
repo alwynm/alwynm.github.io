@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Work with remote linux server
-categories: How-to
+categories: Cheatsheet
 ready : true
 ---
 
