@@ -5,8 +5,6 @@ categories: How-to
 ready : true
 ---
 
-### Work with remote linux server
-
 Login server
 {% highlight js %}ssh <user-name>@<ip>
 {% endhighlight %}
