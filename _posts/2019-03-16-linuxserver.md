@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Work with remote linux server
+title: Remote linux server commands
 categories: Cheatsheet
 ready : true
 ---
