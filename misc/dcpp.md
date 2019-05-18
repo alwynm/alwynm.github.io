@@ -5,8 +5,8 @@ title: DC IITP
 
 ## DC IITP
 
-Status: <span style="color:green">UP</span>
-<!-- Status: <span style="color:red">DOWN</span> -->
+<!-- Status: <span style="color:green">UP</span> -->
+Status: <span style="color:red">DOWN</span>
 
 Hub IP: **172.16.28.113** (subject to change) 
 
