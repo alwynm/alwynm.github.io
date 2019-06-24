@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting multiple git repo with ssh key
+title: Setting multiple git repos with SSH key
 categories: Cheatsheet
 ready : true
 ---
@@ -14,8 +14,8 @@ We will be needing two keys. Type the following in terminal to genrate a SSH key
 
 This will prompt you to enter file in which to save the key. Repeat this twice. Note the give different name according to your convenience to identity each key for your repo. Lets say you named keys as:
 
-1. repo1key
-2. repo2key
+1. `repo1key`
+2. `repo2key`
 
 ### Registering your new SSH key
 
