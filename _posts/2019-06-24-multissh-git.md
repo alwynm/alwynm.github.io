@@ -71,6 +71,6 @@ git@repo2.github.com@yourgitname/repo1.git
 Now you can clone your repos
 
 {% highlight js %}git clone git@repo1.github.com@yourgitname/repo1.git
-git clone git@repo2.github.com@yourgitname/repo1.git
+git clone git@repo2.github.com@yourgitname/repo2.git
 {% endhighlight %}
 
