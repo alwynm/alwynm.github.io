@@ -2,7 +2,7 @@
 layout: post
 title: Setting multiple git repo with ssh key
 categories: Cheatsheet
-ready : false
+ready : true
 ---
 
 ### Creating a new SSH key
