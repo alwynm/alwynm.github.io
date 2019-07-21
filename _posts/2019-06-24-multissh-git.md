@@ -40,7 +40,7 @@ Repeat this same step to add public key on the other repo too. Public keys will 
 
 Here is an example for your `~/.ssh/config` file
 
-{% highlight js %
+{% highlight js %}
 Host repo1.github.com
 HostName github.com 
 IdentityFile /home/yourname/.ssh/repo1key
@@ -63,14 +63,15 @@ Get the `Clone with SSH` url, it will look like:
 
 This url can be used for standard SSH key but as we have defined two different `Host` in  `~/.ssh/config` file, you should use the following.
 
-
-{% highlight js %}git@repo1.github.com@yourgitname/repo1.git
-git@repo2.github.com@yourgitname/repo1.git
+{% highlight js %}
+git@repo1.github.com@yourgitname/repo1.git
+git@repo2.github.com@yourgitname/repo2.git
 {% endhighlight %}
 
 Now you can clone your repos
 
-{% highlight js %}git clone git@repo1.github.com@yourgitname/repo1.git
+{% highlight js %}
+git clone git@repo1.github.com@yourgitname/repo1.git
 git clone git@repo2.github.com@yourgitname/repo2.git
 {% endhighlight %}
 
