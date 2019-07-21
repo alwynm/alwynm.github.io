@@ -17,6 +17,8 @@ title: Misc
 
 ### News Archive
 
+* Reviewer of IET Computer Vision (2019)
+* Reviewer of ICDSE 2019
 * Top 35 in Patna ideathon, Govt. of Bihar (2018)
 * Subreviewer of ISED 2018
 * Bosch DNA Challenge finalist (2017)
