@@ -5,16 +5,17 @@ title: DC IITP
 
 ## DC IITP
 
-<!-- Status: <span style="color:green">UP</span> -->
-Status: <span style="color:red">DOWN</span>
+Status: <span style="color:green">UP</span>
+<!-- Status: <span style="color:red">DOWN</span> -->
 
-Hub IP: **172.16.28.113** (subject to change) 
+Hub IP: **172.16.26.70:8080**
 
 #### Popular DC clients
 
-* [dcplusplus](http://dcplusplus.sourceforge.net/) (Windows)
-* [linuxdcpp](https://launchpad.net/linuxdcpp) (Linux)
-* [cornelldc](http://www.cornelldc.com/mac/index.php) (Mac)
+* [DC++](http://dcplusplus.sourceforge.net/) (Windows)
+* [LinuxDC++](https://launchpad.net/linuxdcpp) (Linux)
+* [EiskaltDC++](https://sourceforge.net/projects/eiskaltdcpp/) (Linux)
+* [CornellDC](http://www.cornelldc.com/mac/index.php) (Mac)
 
 #### Basic rules
 
