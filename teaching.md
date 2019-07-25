@@ -12,8 +12,9 @@ title: Teaching
 ### Study materials
 
 
-* CEP Course 26/07/19: Image processing using CNN hands-on [[Code]]()
-* CEP Course 26/07/19: Advanced topics on image processing [[Slide]]()
+* CEP Course 26/07/19: Generative Adversarial
+Networks hands-on [[Code]](https://drive.google.com/drive/folders/12aulOrlonprYxMp9h7vyL_a3e14uEWJr?usp=sharing)
+* CEP Course 26/07/19: Advanced topics on image processing [[Slide]](https://drive.google.com/file/d/1nvhudAbpfPXeqSgwxfn7al4hjG-rToDk/view?usp=sharing)
 * EE514 23/01/19: Multilayer perceptron hands-on [[Code]](https://drive.google.com/drive/folders/1Nn6N0GopiXFUVvRA5Z3rTWJ7Yp7qm4Rd?usp=sharing)
 * EE514 23/01/19: Math behind backpropagation [[Slide]](https://drive.google.com/file/d/1fcvALsno1d4W10wlUYWvi-hXI_yhqNq0/view?usp=sharing)
 * EE514 16/01/19: Introduction to Neural networks [[Slide]](https://drive.google.com/file/d/1gCxPc1U3id6lzS4MuhliwPXC8dLltCxY/view?usp=sharing)
