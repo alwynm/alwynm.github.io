@@ -24,3 +24,9 @@ Networks and Adversarial examples hands-on [[Code]](https://github.com/alwynmath
 * CS299 30/12/17: Introduction to Microsoft Kinect [[Slide]](https://drive.google.com/open?id=1p61ZeACxnCZI3NgO7dgDJBDj5aCoMIzD)
 
 Curated [external study materials](teaching/externallinks) for deep learning.
+
+### Teaching Assistant
+
+* CS225: Switching Theory
+* CS421: Computer Peripherals and Interfacing
+* EE514: High Performance Computing Systems
