@@ -10,8 +10,10 @@ title: Misc
 
 ### News Archive
 
+* Expert lecture in [CEP Course](http://www.iitp.ac.in/cep/course.html) on [GANs](https://alwynm.github.io/teaching) (2019)
 * Reviewer of IET Computer Vision (2019)
 * Reviewer of ICDSE 2019
+* Expert lecture in [CEP Course](http://www.iitp.ac.in/cep/course.html) on [CNN](https://alwynm.github.io/teaching) (2018)
 * Top 35 in Patna ideathon, Govt. of Bihar (2018)
 * Subreviewer of ISED 2018
 * Bosch DNA Challenge finalist (2017)
