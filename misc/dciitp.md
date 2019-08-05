@@ -19,8 +19,8 @@ Hub IP: **172.16.26.70:8080**
 
 #### Basic rules
 
-* Minimum limit for connecting: **0 GiB**
-* Minimum limit for searching and downloading: **1 GiB** (subject to change) 
+* Minimum limit for connecting: **0 GB**
+* Minimum limit for searching and downloading: **0 GB** (subject to change) 
 
 #### How to connect
 
