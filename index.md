@@ -3,9 +3,9 @@ layout: page
 title: Home
 ---
 
-I'm a PhD student in [Computer Science & Engineering](https://www.iitp.ac.in/index.php?option=com_content&view=article&id=72&Itemid=67) at
+I'm a PhD student in Computer Science & Engineering at
 [IIT Patna](https://www.iitp.ac.in) under the supervision of 
-[Dr. Jimson Mathew](https://www.iitp.ac.in/index.php/departments/engineering/computer-science-a-engineering/people/faculty/1502-dr-jimson-mathew.html). 
+[Dr. Jimson Mathew](https://www.iitp.ac.in/index.php?option=com_content&view=article&id=1502%3Adr-jimson-mathew&catid=49&Itemid=77). 
 I'm primarily interested in replicating biological visual system 
 to a computer system. My current research goal is to build 
 learning algorithms that can perceive depth without supervision.
