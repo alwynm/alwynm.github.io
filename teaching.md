@@ -3,17 +3,11 @@ layout: page
 title: Teaching
 ---
 
-<!-- ### News
-
-* EE514: Assignment-2 will be due on 11/02/19 [[Link]](https://classroom.google.com/c/Mjc2MTQxODI2OTFa/a/Mjc3NDYwNjIwODNa/details)
-* EE514: Assignment-1 will be due on 04/02/19 [[Link]](https://classroom.google.com/c/Mjc2MTQxODI2OTFa/a/Mjc2NDg4NDE4NDda/details)
-* EE514: Join [Google classroom](http://classroom.google.com/) with code <font color="red">rqqc859</font> -->
-
 ### Slide
 
 
-* FDP Course 25/09/19: RL in Demand Side Management [[Slide]]()
-* FDP Course 25/09/19: Introduction to RL [[Slide]](https://drive.google.com/file/d/1DeMA1JjcP_OLksBCwPDcrLG6G8fa8v5a/view?usp=sharing)
+* FDP Course 25/09/19: RL in Demand Side Management [[Slide]](https://drive.google.com/file/d/1D27_PytrC_9k3apk0OPMS7rkiafBJxyJ/view?usp=sharing)
+* FDP Course 25/09/19: Introduction to RL [[Slide]](https://drive.google.com/file/d/1cL2uA0AfIh0nSG3ZSmOCZhkuhZqVraax/view?usp=sharing)
 * CEP Course 26/07/19: Advanced topics on image processing [[Slide]](https://drive.google.com/file/d/1uGiOn1aYO6jVZNCI6-iVVUYgB1R59CG-/view?usp=sharing)
 * EE514 23/01/19: Math behind backpropagation [[Slide]](https://drive.google.com/file/d/1fcvALsno1d4W10wlUYWvi-hXI_yhqNq0/view?usp=sharing)
 * EE514 16/01/19: Introduction to Neural networks [[Slide]](https://drive.google.com/file/d/1gCxPc1U3id6lzS4MuhliwPXC8dLltCxY/view?usp=sharing)
