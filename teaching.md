@@ -5,7 +5,7 @@ title: Teaching
 
 ### Slide
 
-
+* FDP Course 17/12/19: Cognitive Computing on GANs  [[Slide]]()
 * FDP Course 25/09/19: Introduction to RL [[Slide]](https://drive.google.com/file/d/1cL2uA0AfIh0nSG3ZSmOCZhkuhZqVraax/view?usp=sharing)
 * CEP Course 26/07/19: Advanced topics on image processing [[Slide]](https://drive.google.com/file/d/1uGiOn1aYO6jVZNCI6-iVVUYgB1R59CG-/view?usp=sharing)
 * EE514 23/01/19: Math behind backpropagation [[Slide]](https://drive.google.com/file/d/1fcvALsno1d4W10wlUYWvi-hXI_yhqNq0/view?usp=sharing)
@@ -15,6 +15,8 @@ title: Teaching
 
 ### Code
 
+* FDP Course 17/12/19 : Generative Adversarial Networks hands-on [[Code]]()
+* FDP Course 16/12/19 : Introduction to Neural Networks hands-on [[Code]]()
 * CEP Course 26/07/19: Generative Adversarial Networks and Adversarial examples hands-on [[Code]](https://github.com/alwynmathew/CEP-MLIPcourse)
 * EE514 23/01/19: Multilayer perceptron hands-on [[Code]](https://drive.google.com/drive/folders/1Nn6N0GopiXFUVvRA5Z3rTWJ7Yp7qm4Rd?usp=sharing)
 * CEP Course 11/12/18: Introduction to CNN hands-on [[Code]](https://github.com/alwynmathew/CEP-DLcourse)

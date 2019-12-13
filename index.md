@@ -12,8 +12,9 @@ learning algorithms that can perceive depth without supervision.
 
 ## News
 
-* Expert lecture in [FDP Micro grids](https://sites.google.com/view/faculty-development-programiit/Introduction) on [RL](teaching) (2019)
-* Expert lecture in [CEP Course](http://www.iitp.ac.in/cep/course.html) on [GANs](teaching) (2019)
+* Lecture in [FDP on Cognitive Computing](http://www.mace.ac.in/Website/Uploads/DepartmentDownloads/637105962391897267.jpeg) on [GANs](teaching) (2019)
+* Lecture in [FDP Micro grids](https://sites.google.com/view/faculty-development-programiit/Introduction) on [RL](teaching) (2019)
+* Lecture in [CEP Course](http://www.iitp.ac.in/cep/course.html) on [GANs](teaching) (2019)
 * Reviewer of IET Computer Vision (2019)
 * Reviewer of ICDSE 2019
 * Top 35 in Patna ideathon, Govt. of Bihar (2018)
