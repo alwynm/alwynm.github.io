@@ -15,8 +15,8 @@ title: Teaching
 
 ### Code
 
-* FDP Course 17/12/19 : Adversarial ML hands-on [[Code](https://drive.google.com/drive/folders/1OspDKpN85bREvpNPaAEo3RIjOnZncq5Z?usp=sharing)]
-* FDP Course 16/12/19 : Introduction to Neural Networks hands-on [[Code](https://drive.google.com/drive/folders/1JLLNMWvCfQF3ZIPpzjMwEiTKAXdXg1Ph?usp=sharing)]
+* FDP Course 17/12/19: Adversarial ML hands-on [[Code](https://drive.google.com/drive/folders/1OspDKpN85bREvpNPaAEo3RIjOnZncq5Z?usp=sharing)]
+* FDP Course 16/12/19: Introduction to Neural Networks hands-on [[Code](https://drive.google.com/drive/folders/1JLLNMWvCfQF3ZIPpzjMwEiTKAXdXg1Ph?usp=sharing)]
 * CEP Course 26/07/19: GANs and Adversarial examples hands-on [[Code](https://github.com/alwynmathew/CEP-MLIPcourse)]
 * EE514 23/01/19: Multilayer perceptron hands-on [[Code](https://drive.google.com/drive/folders/1Nn6N0GopiXFUVvRA5Z3rTWJ7Yp7qm4Rd?usp=sharing)]
 * CEP Course 11/12/18: Introduction to CNN hands-on [[Code](https://github.com/alwynmathew/CEP-DLcourse)]
