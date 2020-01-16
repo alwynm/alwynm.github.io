@@ -8,10 +8,6 @@ ready : true
 
 Let's say, you have applied an affine transformation(translation and rotation and scaling) to an image. Applying these transformations will translate, rotate or rotate the image i.e., we have to move the pixel location of the source image according to the transformation to the target image. 
 
-<p align="center">
-  <img src="https://www.mathworks.com/content/mathworks/www/en/company/newsletters/articles/using-matlabs-meshgrid-command-and-array-operators-to-implement-one-and-two-variable-functions/jcr:content/mainParsys/image_2.adapt.full.low.gif/1469941369997.gif" alt="meshgrid">
-</p>
-
 ### What is forward mapping?
 
 As we are manipulation the pixel location, we will construct a grid where each grid values is the location of pixels on the source image. Apply the transformation to this grid to get the desired tranformed grid. Use tranformed grid to look back at the source image and copy pixel values to that output pixel. This is commonly called forward mapping.
