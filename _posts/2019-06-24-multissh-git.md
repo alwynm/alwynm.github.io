@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting multiple git repos with SSH key
-categories: Cheatsheet
+categories: General
 ready : true
 ---
 
