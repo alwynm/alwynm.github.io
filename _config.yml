@@ -4,10 +4,10 @@ permalink:          blog/:categories/:title
 # Setup
 title:               Alwyn Mathew
 tagline:             IIT Patna
-url:                 
+url:                 "https://alwynm.github.io"
 paginate:            1
-# baseurl:             ""
-baseurl:             https://alwynm.github.io
+baseurl:             ""
+#baseurl:             https://alwynm.github.io
 
 # Assets
 #
