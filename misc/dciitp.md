@@ -5,8 +5,8 @@ title: DC IITP
 
 ## DC Hub
 
-Status: <span style="color:green">UP</span>
-<!-- Status: <span style="color:red">DOWN</span> -->
+<!-- Status: <span style="color:green">UP</span> -->
+Status: <span style="color:red">DOWN</span>
 
 Hub name: **Alpha IITP**
 
