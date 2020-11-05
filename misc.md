@@ -12,6 +12,7 @@ platform. Zenin Easa P, Dhawal Gupta, Jimson Mathew, Alwyn Mathew. 2017
 
 ### News Archive
 
+* Received fund from Scheme for Promotion of Academic and Research Collaboration ([SPARC](https://sparc.iitkgp.ac.in/)), MHRD, GoI. Grant #P582. (2020)
 * Lecture in [FDP Cognitive Computing](http://www.mace.ac.in/Website/Uploads/DepartmentDownloads/637105962391897267.jpeg) on [Adversarial ML](teaching) (2019)
 * Lecture in [FDP Micro grids](https://sites.google.com/view/faculty-development-programiit/Introduction) on [RL](teaching) (2019)
 * Lecture in [CEP Course](http://www.iitp.ac.in/cep/course.html) on [GANs](teaching) (2019)
