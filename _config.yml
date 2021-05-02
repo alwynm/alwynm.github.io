@@ -36,7 +36,7 @@ gems:
 timezone: Asia/Kolkata
 
 pages_list:
-  Publications: '/pub'
+  Publication: '/pub'
   Teaching: '/teaching'
   Projects: '/projects'
   Blog: '/blog'

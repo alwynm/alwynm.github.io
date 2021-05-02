@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Publications
+title: Publication
 ---
+
+You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=NtNgcRYAAAAJ&hl=en). 
 
 ### Journals
 
