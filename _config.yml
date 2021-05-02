@@ -41,6 +41,7 @@ pages_list:
   Projects: '/projects'
   Blog: '/blog'
   Misc: '/misc'
+  CV: '/cv.html'
 
 twitter_username:     alwyn_mathew
 github_username:      alwynmathew
