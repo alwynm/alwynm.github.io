@@ -18,3 +18,4 @@ learning algorithms that can perceive depth without supervision.
 * Lecture on [RL](teaching) in [FDP Micro grids](https://sites.google.com/view/faculty-development-programiit/Introduction) (2019) 
 * Lecture on [GANs](teaching) in [CEP Course](http://www.iitp.ac.in/cep/course.html) (2019)
 * Reviewer of IET Computer Vision (2019)
+<p style="text-align:right"><a href="/news_archive">for more news...</a></p>

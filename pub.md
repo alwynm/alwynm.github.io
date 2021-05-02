@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-### Journal
+### Journals
 
 * **Mathew, A.**, and Mathew, J., Monocular Depth Estimation with SPN loss, Image and Vision Computing, (2020). [[Paper](https://doi.org/10.1016/j.imavis.2020.103934)]
 * **Mathew, A.**, Roy, A., and Mathew, J., Intelligent Residential Energy Management System Using Deep Reinforcement Learning, IEEE Systems Journal, (2020). [[Paper](https://doi.org/10.1109/JSYST.2020.2996547)] [[arxiv](https://arxiv.org/abs/2005.14259)]
@@ -12,7 +12,7 @@ title: Publications
 
 <span style="color:green">Five</span> journals under review.
 
-### Conference
+### Conferences
 
 * **Mathew, A.**, Patra, AP., and Mathew, J., Self-Attention Dense Depth Estimation Network for Unrectified Video Sequences, ICIP, (2020). [[Paper](https://doi.org/10.1109/ICIP40778.2020.9190764)] [[arxiv](https://arxiv.org/abs/2005.14313)]
 * Sanodiya RK, **Mathew, A.**, Mathew, J., and Khushi, M., Statistical and Geometrical Alignment using Metric Learning in Domain Adaptation, IJCNN, (2020) [[Paper](https://doi.org/10.1109/IJCNN48605.2020.9206877)] 
