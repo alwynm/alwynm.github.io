@@ -10,7 +10,7 @@ title: Publications
 * **Mathew, A.**, Jolly, MJ. and Mathew, J., Improved Residential Energy Management System Using Priority Double Deep Q-learning, Sustainable Cities and Society, (2021). [[Paper](https://doi.org/10.1016/j.scs.2021.102812)]
 * **Mathew, A.**, Patra, A., and Mathew, J., Monocular Depth Estimators: Vulnerabilities and Attacks, IEEE Intelligent Systems, (2020). [[arxiv](https://arxiv.org/abs/2005.14302)]
 
-<font color="green">Five</font> journals under review.
+<span style="color:green">Five</span> journals under review.
 
 ### Conference
 
@@ -19,4 +19,8 @@ title: Publications
 * Srivastava, H., **Mathew, A.**, and Mathew, J., A Novel Frame Similarity Based Pedestrian Counting Approach in Surveillance Videos, ICIC, (2018). [[Paper](https://doi.org/10.1109/INDICON45594.2018.8987189)] 
 * **Mathew, A.**, Mathew, J., Govind, M., and Mooppan, A., An Improved Transfer learning Approach for Intrusion Detection, ICACC, (2017). [[Paper](https://doi.org/10.1016/j.procs.2017.09.132)] 
 
-<font color="green">Zero</font> conference under review.
+<span style="color:green">Zero</span> conference under review.
+
+### Patents
+
+* Easa, Z., Gupta, D., Mathew, J., and **Mathew, A.,** Automated two wheeler parking system by detecting the location of the vehicle using sensor under the platform. Appl.no. 201731036379. (Patent Pending)
