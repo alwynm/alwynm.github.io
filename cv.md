@@ -1,7 +1,12 @@
+---
+layout: page
+title: CV
+---
+
 <embed
     src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/alwynmathew/my-cv/main/CV_alwyn.pdf?token=AGJGZ7OXRZC6DYD2FQ3USHDATAYJO#toolbar=0&scrollbar=0"
     frameBorder="0"
     scrolling="auto"
-    height="100%"
-    width="100%">
-</embed>
+    height="500"
+    width="100%"
+>
