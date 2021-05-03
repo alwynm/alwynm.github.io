@@ -5,9 +5,16 @@ title: Teaching
 
 ## Teaching Assistant
 
-* CS225: Switching Theory
-* CS421: Computer Peripherals and Interfacing
-* EE514: High Performance Computing Systems
+* CS 225: Switching Theory (Jan-May, 2017)
+* CS 421: Computer Peripherals and Interfacing (July-Dec, 2017)
+* CS 229: Innovation Laboratory (Jan, 2017)
+* CS 225: Switching Theory (Jan-May, 2018)
+* CS 421: Computer Peripherals and Interfacing (July-Dec, 2018)
+* CS 225: Switching Theory (Jan-May, 2019)
+* CS 421: Computer Peripherals and Interfacing (July-Dec, 2019)
+* EE 541: High Performance Computing (Jan, 2019)
+* CS 225: Switching Theory (Jan-May, 2020)
+* CS 421: Computer Peripherals and Interfacing (July-Dec, 2020)
 
 Curated [external study materials](teaching/externallinks) for deep learning.
 

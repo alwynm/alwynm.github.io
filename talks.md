@@ -3,8 +3,6 @@ layout: page
 title: Talks
 ---
 
-## Talks
-
 ### Slide
 
 * AICTE FDP Course 18/12/20: GANs and Adversarial attacks [[Slide](https://drive.google.com/file/d/1Jc1Gh9_Ir0b1Co8BG-z8NeMlb_EnMkF8/view?usp=sharing)]
