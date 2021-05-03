@@ -37,8 +37,8 @@ timezone: Asia/Kolkata
 
 pages_list:
   Publication: '/pub'
+  Talks: '/talks'
   Teaching: '/teaching'
-#  Projects: '/projects'
   Blog: '/blog'
 #  Misc: '/misc'
   CV: '/cv.html'
