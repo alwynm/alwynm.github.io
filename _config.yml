@@ -49,6 +49,10 @@ linkedin_username:    alwynmathew
 
 markdown: kramdown
 
+# Markdown Processors
+kramdown:
+  auto_ids: true
+
 plugins:
   - jekyll-seo-tag
 
