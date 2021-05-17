@@ -5,12 +5,12 @@ title: Talks
 
 ## Talks
 
-* Generative Adversarial Networks and Adversarial attacks. Faculty Development Programme (FDP<sup>1</sup>) sponsored by All India Council for Technical Education (AICTE), Government of India. (2020)
-* Adversarial Machine Learning. Faculty Development Programme (FDP) sponsored by APJ Abdul Kalam Technological University, Government of Kerala. (2019)
-* Machine Learning makes Smart Grids smarter. Faculty Development Programme (FDP) sponsored by Scheme for Promotion of Academic and Research Collaboration (SPARC),  Ministry of Human Resource development (MHRD), Government of India. (2019)
-* Generative Adversarial Networks. Faculty Development Programme (FDP) sponsored by Third phase of Technical Education Quality Improvement Programme (TEQIP-III), Government of India and Institute of Electrical and Electronics Engineers (IEEE). (2019)
-* Generative Adversarial Networks and Adversarial examples. Continuing Education Programme (CEP<sup>2</sup>) sponsored by Third phase of Technical Education Quality Improvement Programme (TEQIP-III), Government of India. (2019)
-* Introduction to  Convolutional Neural Networks.  Continuing Education Programme (CEP) sponsored by Third phase of Technical Education Quality Improvement Programme (TEQIP-III), Government of India. (2018)
+* Generative Adversarial Networks and Adversarial attacks. _Faculty Development Programme (FDP<sup>1</sup>) sponsored by All India Council for Technical Education (AICTE), Government of India._ (2020)
+* Adversarial Machine Learning. _Faculty Development Programme (FDP) sponsored by APJ Abdul Kalam Technological University, Government of Kerala._ (2019)
+* Machine Learning makes Smart Grids smarter. _Faculty Development Programme (FDP) sponsored by Scheme for Promotion of Academic and Research Collaboration (SPARC),  Ministry of Human Resource development (MHRD), Government of India._ (2019)
+* Generative Adversarial Networks. _Faculty Development Programme (FDP) sponsored by Third phase of Technical Education Quality Improvement Programme (TEQIP-III), Government of India and Institute of Electrical and Electronics Engineers (IEEE)._ (2019)
+* Generative Adversarial Networks and Adversarial examples. _Continuing Education Programme (CEP<sup>2</sup>) sponsored by Third phase of Technical Education Quality Improvement Programme (TEQIP-III), Government of India._ (2019)
+* Introduction to  Convolutional Neural Networks.  _Continuing Education Programme (CEP) sponsored by Third phase of Technical Education Quality Improvement Programme (TEQIP-III), Government of India._ (2018)
 
 ### Slide
 
