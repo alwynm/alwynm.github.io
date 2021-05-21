@@ -29,3 +29,4 @@ learning algorithms that can perceive depth without supervision.
 <li>{{item}}</li>
 {% endfor %}
 </ul>
+<p style="text-align:right"><a href="/pub">for full list...</a></p>
