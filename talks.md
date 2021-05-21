@@ -13,19 +13,19 @@ title: Talks
 
 ### Slide
 
-* AICTE FDP 18/12/20: GANs and Adversarial attacks [[Slide](https://drive.google.com/file/d/1Jc1Gh9_Ir0b1Co8BG-z8NeMlb_EnMkF8/view?usp=sharing)]
-* FDP 17/12/19: Adversarial ML  [[Slide](https://drive.google.com/file/d/1SHESL8v4EPeVVMMiPd-gsl8dY5hXJtTK/view?usp=sharing)]
-* FDP 25/09/19: Introduction to RL [[Slide](https://drive.google.com/file/d/1cL2uA0AfIh0nSG3ZSmOCZhkuhZqVraax/view?usp=sharing)]
-* CEP 26/07/19: Advanced topics on image processing [[Slide](https://drive.google.com/file/d/1uGiOn1aYO6jVZNCI6-iVVUYgB1R59CG-/view?usp=sharing)]
-* CEP 11/12/18: Introduction to CNN [[Slide](https://goo.gl/oxVCHd)]
+<ul>
+{% for item in site.data.talks.slides %}
+<li>{{item}}</li>
+{% endfor %}
+</ul>
 
 ### Code
 
-* FDP 18/12/20: GANs and FGSM hands-on [[Code](https://drive.google.com/drive/folders/1Jue84VAIIukjQj6vCQjeurvOZnbX0uQv?usp=sharing)]
-* FDP 17/12/19: Adversarial ML hands-on [[Code](https://drive.google.com/drive/folders/1Jue84VAIIukjQj6vCQjeurvOZnbX0uQv?usp=sharing)]
-* FDP 16/12/19: Introduction to Neural Networks hands-on [[Code](https://drive.google.com/drive/folders/1JLLNMWvCfQF3ZIPpzjMwEiTKAXdXg1Ph?usp=sharing)]
-* CEP 26/07/19: GANs and Adversarial examples hands-on [[Code](https://github.com/alwynmathew/CEP-MLIPcourse)]
-* CEP 11/12/18: Introduction to CNN hands-on [[Code](https://github.com/alwynmathew/CEP-DLcourse)]
+<ul>
+{% for item in site.data.talks.code %}
+<li>{{item}}</li>
+{% endfor %}
+</ul>
 
-<sup>1</sup> FDP intends facilitate upgradation of knowledge, skill and intends to provide opportunities for induction training  to teachers employed in disciplines Engineering &  Technology, Pharmacy, Hotel Management &  Catering Technology, Architecture, Town  Planning and Applied Arts & Crafts. <br/>
-<sup>2</sup> CEP activity has been set up to meet the manpower training and knowledge upgradation needs of the industry, academia, and research organizations.
+> FDP intends facilitate upgradation of knowledge, skill and intends to provide opportunities for induction training  to teachers employed in disciplines Engineering &  Technology, Pharmacy, Hotel Management &  Catering Technology, Architecture, Town  Planning and Applied Arts & Crafts. <br/>
+> CEP activity has been set up to meet the manpower training and knowledge upgradation needs of the industry, academia, and research organizations.
