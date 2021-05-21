@@ -34,8 +34,8 @@ learning algorithms that can perceive depth without supervision.
 ## Latest talks
 
 <ul>
-{% for item in site.data.talks.talks limit:2 %}
+{% for item in site.data.talks.slides limit:2 %}
 <li>{{item}}</li>
 {% endfor %}
 </ul>
-<p style="text-align:right"><a href="/talks">for full list...</a></p>
+<p style="text-align:right"><a href="/talks">for more details...</a></p>
