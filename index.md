@@ -30,3 +30,12 @@ learning algorithms that can perceive depth without supervision.
 {% endfor %}
 </ul>
 <p style="text-align:right"><a href="/pub">for full list...</a></p>
+
+## Latest talks
+
+<ul>
+{% for item in site.data.talks.talks limit:2 %}
+<li>{{item}}</li>
+{% endfor %}
+</ul>
+<p style="text-align:right"><a href="/talks">for full list...</a></p>
