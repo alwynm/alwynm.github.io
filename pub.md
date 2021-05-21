@@ -7,10 +7,10 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 ### Journals
 
-* **Mathew, A.**, and Mathew, J., Monocular Depth Estimation with SPN loss, Image and Vision Computing, (2020). [[Paper](https://doi.org/10.1016/j.imavis.2020.103934)]
-* **Mathew, A.**, Roy, A., and Mathew, J., Intelligent Residential Energy Management System Using Deep Reinforcement Learning, IEEE Systems Journal, (2020). [[Paper](https://doi.org/10.1109/JSYST.2020.2996547)] [[arxiv](https://arxiv.org/abs/2005.14259)]
 * **Mathew, A.**, Jolly, MJ. and Mathew, J., Improved Residential Energy Management System Using Priority Double Deep Q-learning, Sustainable Cities and Society, (2021). [[Paper](https://doi.org/10.1016/j.scs.2021.102812)]
 * **Mathew, A.**, Patra, A., and Mathew, J., Monocular Depth Estimators: Vulnerabilities and Attacks, IEEE Intelligent Systems, (2020). [[arxiv](https://arxiv.org/abs/2005.14302)]
+* **Mathew, A.**, Roy, A., and Mathew, J., Intelligent Residential Energy Management System Using Deep Reinforcement Learning, IEEE Systems Journal, (2020). [[Paper](https://doi.org/10.1109/JSYST.2020.2996547)] [[arxiv](https://arxiv.org/abs/2005.14259)]
+* **Mathew, A.**, and Mathew, J., Monocular Depth Estimation with SPN loss, Image and Vision Computing, (2020). [[Paper](https://doi.org/10.1016/j.imavis.2020.103934)]
 
 <span style="color:green">Five</span> journals under review.
 
