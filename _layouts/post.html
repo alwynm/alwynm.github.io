@@ -14,14 +14,15 @@ layout: default
 <aside class="related">
   <h3>Related posts</h3>
   <ul class="related-posts">
-    {% for post in site.related_posts limit:10 %}
+    {% assign posts = site.posts | where_exp:"post","post.url != page.url" %}
+    {% for post in posts %}
       {% assign match = false %}
       {% for category in post.categories %}
         {% if page.categories contains category %}
           {% assign match = true %}
         {% endif %}
       {% endfor %}
-      {% if match and post.ready%}
+      {% if match and post.ready %}
         <li>
           <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
