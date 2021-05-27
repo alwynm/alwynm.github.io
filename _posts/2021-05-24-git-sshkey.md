@@ -66,7 +66,7 @@ Enter title and copy paste the content of the public key generated at `~/.ssh/` 
 
 ### Configure Git
 
-If git is not configured in your local machine, do the following. In your terminal, add your user name: 
+If git is not configured in your local machine, do the following. In your terminal, add your username: 
 
 ```git config --global user.name "your_username"```
 
