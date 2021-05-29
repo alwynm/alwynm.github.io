@@ -14,6 +14,14 @@ cd ~/.ssh
 ssh-keygen -t rsa -C "your_email@example.com"
 ```
 
+If you want to force rename the ssh key, you use the command below:
+
+```
+ssh-keygen -t rsa -C "your_email@example.com" -f "id_rsa_user1"
+```
+
+here `id_rsa_user1` will be the name of the key.
+
 Once you entered that command, you will get a few more questions:
 
 ```
