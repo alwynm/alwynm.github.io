@@ -5,6 +5,12 @@ categories: General
 ready : true
 ---
 
+You may already know that GitHub will [no longer accept account passwords](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) when authenticating Git operations 
+
+> Beginning August 13, 2021, we will no longer accept account passwords when authenticating Git operations and will require the use of token-based authentication, such as a personal access token (for developers) or an OAuth or GitHub App installation token (for integrators) for all authenticated Git operations on GitHub.com. You may also continue using SSH keys where you prefer.
+
+If you are still using password for GitHub authentication, this post will help you setup ssh key for your git account.
+
 ### Creating a new SSH key
 
 You should create a SSH key in your local machine. Type the following in terminal to generate a SSH key.
@@ -14,7 +20,7 @@ cd ~/.ssh
 ssh-keygen -t rsa -C "your_email@example.com"
 ```
 
-If you want to force rename the ssh key, you use the command below:
+If you want to force rename the ssh key, you should the command below:
 
 ```
 ssh-keygen -t rsa -C "your_email@example.com" -f "id_rsa_user1"
