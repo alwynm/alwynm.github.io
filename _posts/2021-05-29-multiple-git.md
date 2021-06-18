@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multiple Git configs on one system
+title: Multiple Git configs on same system
 categories: General
 ready : true
 ---
@@ -52,6 +52,17 @@ need, from username and email to commit hooks.
 [user]
  name = personal_user
  email = personal_email
+```
+
+We can configure git to use a custom SSH command like above by setting `core.sshCommand` with corresponding public 
+key `personal_user_key` connected with the git account. 
+
+```
+[user]
+ name = personal_user
+ email = personal_email
+[core]
+ sshCommand = "ssh -i ~/.ssh/personal_user_key"
 ```
 
 Now all repo in `~/personal/` will be associated with `.gitconfig-personal` git account and repos in `~/work/` will 
