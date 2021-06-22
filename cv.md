@@ -11,4 +11,5 @@ title: CV
     width="100%"
     type="application/pdf">
 
-_Reload page if CV doesnt appear in this page or click [here](https://raw.githubusercontent.com/alwynm/my-cv/main/CV_alwyn.pdf)._
+If CV doesn't appear in this page, reload this page or click [here](https://raw.githubusercontent.com/alwynm/my-cv/main/CV_alwyn.pdf). <br />
+Click [here](https://alwynm.github.io/resume) for Resume.
