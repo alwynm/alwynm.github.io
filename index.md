@@ -2,8 +2,41 @@
 layout: page
 title: Home
 ---
+<!--adapted from https://github.com/tameemsafi/typewriterjs You got it.-->
+<div id="app" style="height:150px;"></div>
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+#app {
+  font-size: 35px;
+  line-height: 50px;
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif;
+}
+strong {
+  font-weight: 700;
+}
+</style>
+<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+<script type="text/javascript">
+var app = document.getElementById('app');
+var typewriter = new Typewriter(app, { loop: true, delay: 75, });
+typewriter
+  .pauseFor(1000)
+  .typeString('Hi, I\'m <strong>Alwyn</strong>')
+  .typeString('<br/>')
+  .pauseFor(1000)
+  .typeString('I love <strong> <span style="color: #27ae60;">Computer Vision</span> </strong>')
+  .pauseFor(2000)
+  .deleteChars(16)
+  .typeString('<strong> <span style="color: #FBB13C;">Adversarial Learning</span></strong>')
+  .pauseFor(2000)
+  .deleteChars(21)
+  .typeString('<strong> <span style="color: #D81159 ;">RL</span></strong>')
+  .pauseFor(2000)
+  .start();
+</script>
 
-I'm a PhD student in Computer Science & Engineering at
+PhD candidate in Computer Science & Engineering at
 [IIT Patna](https://www.iitp.ac.in) under the supervision of 
 [Dr. Jimson Mathew](https://www.iitp.ac.in/index.php/en-us/people/faculty/2-uncategorised/212-view-profile-23). 
 I'm primarily interested in replicating biological visual system 
