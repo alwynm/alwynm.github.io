@@ -28,7 +28,7 @@ typewriter
   .typeString('I love <strong> <span style="color: #27ae60;">Computer Vision</span> </strong>')
   .pauseFor(2000)
   .deleteChars(16)
-  .typeString('<strong> <span style="color: #FBB13C;">Adversarial Learning</span></strong>')
+  .typeString('<strong> <span style="color: #F0A202 ;">Adversarial Learning</span></strong>')
   .pauseFor(2000)
   .deleteChars(21)
   .typeString('<strong> <span style="color: #D81159 ;">RL</span></strong>')
