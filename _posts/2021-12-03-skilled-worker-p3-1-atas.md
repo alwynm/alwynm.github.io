@@ -6,7 +6,10 @@ ready : true
 ---
 
 [Previous blog](skilled-worker-p2-passport) we talked about the things you should ensure in your 
-passport before applying for visa. This blog talks about ATAS and how to apply ATAS.
+passport before applying for visa. ATAS blog is divided into four posts: Part 3.1 (this blog) talks about 
+ATAS and how to apply ATAS, [Part 3.2](skilled-worker-p3-2-atas) ATAS proposed research, 
+[Part 3.3](skilled-worker-p3-3-atas) talks about other section in your ATAS application 
+and [Part 3.4 ](skilled-worker-p3-4-atas) talks about how long ATAS application takes to be approved.
 
 The [Academic Technology Approval Scheme](https://www.gov.uk/guidance/academic-technology-approval-scheme) 
 (ATAS) applies to all international students and researchers (apart from exempt 

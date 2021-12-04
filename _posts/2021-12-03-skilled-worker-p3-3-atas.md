@@ -7,7 +7,11 @@ ready : true
 
 [Previous blog](skilled-worker-p3-2-atas) we talked about other 
 sections in your ATAS application other than Proposed research section.
-This blog talksk about rest of the section in your ATAS application.
+ATAS blog is divided into four posts: [Part 3.1](skilled-worker-p3-1-atas) talks about 
+ATAS and how to apply ATAS, [Part 3.2](skilled-worker-p3-2-atas) ATAS proposed research, 
+Part 3.3 (this blog) talks about rest of section in your ATAS application 
+and [Part 3.4 ](skilled-worker-p3-4-atas) talks about how long ATAS application 
+takes to be approved.
 
 ### Personal details
 

@@ -55,14 +55,17 @@ Transcript(s), Certified translations of your documents (if
 not in English) and Medium of Instruction letter (if you need 
 to evidence your English language proficiency). **Medium of 
 Instruction letter** is issued by the institute that 
-taught your course in English. Ensure you have Medium of 
-Instruction letter from your institute even before ATAS to avoid delaying 
-your CoS.
+taught your course in English. Medium of Instruction letters 
+typically look like [this example](https://www.ecctis.com/Documents/MOI/TechUniCertification_in.pdf). 
+Ensure you have Medium of Instruction letter from your 
+institute even before ATAS to avoid delaying your CoS.
 
 English proficiency, PhD verification or both, all costs you 
 £210 each. If you are from India, you should 
 apply for PhD verification with English proficiency which 
-will also cost £210 plus tax plus e-copy fee. 
+will also cost £210 plus tax plus e-copy fee. You can also 
+opt to fast track you application with additional fee of 
+£124 and £174 plus tax for 24hr and 48hr service, respectively.
 **Ensure you are ready with your English proficiency, 
 verified PhD degree and NARIC reference number from 
 ECCTIS by the time your ATAS is approved**.
