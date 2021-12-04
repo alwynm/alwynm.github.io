@@ -5,6 +5,9 @@ categories: VISA
 ready : true
 ---
 
+[Previous blog](skilled-worker-p2-passport) we talked about the things you should ensure in your 
+passport before applying for visa. This blog talks about ATAS and how to apply ATAS.
+
 The [Academic Technology Approval Scheme](https://www.gov.uk/guidance/academic-technology-approval-scheme) 
 (ATAS) applies to all international students and researchers (apart from exempt 
 nationalities) who are subject to UK immigration control and are intending to 
@@ -15,10 +18,10 @@ study or research at postgraduate level in certain  sensitive subjects.
 You should make sure the following details are given by your university/laboratory.
 
 * CAH3 code 
-* SOC 
+* SOC code
 * Full name, full postal address and email of your sponsor
 
-You will also need to provide information on:
+You will also need to provide your information on:
 
 * Previous studies
 * Previous and current employment (if applicable)
@@ -32,6 +35,7 @@ your area of research, and a description (for research degrees and researchers)
 You will be directed by the university/laboratory to apply ATAS soon after you 
 receive and accept a job offer. You can apply for ATAS online via 
 [ATAS official website](https://www.academic-technology-approval.service.gov.uk/sign-in). 
+**ATAS is free-of-charge to apply.**
 
 The online application form has 10 sections. You should complete it fully, with as 
 much detail as possible in each section. The application portal is the same for 
@@ -47,3 +51,6 @@ researchers and students. Sections are:
 * Employment history
 * Referees
 * Financial sponsors
+
+[Next blog](skilled-worker-p3-2-atas) in this series brief about Proposed 
+research section in your ATAS application.

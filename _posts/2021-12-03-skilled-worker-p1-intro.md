@@ -17,7 +17,7 @@ Another very attractive route to the UK is with a
 [Global Talent visa (Tier 1)](https://www.gov.uk/global-talent). But Global Talent 
 visa is much difficult to be approved than a Skilled work visa. If you have a 
 permanent job, or a contract for more than two years you may be eligible to apply 
-for Global Talent visa
+for Global Talent visa.
 
 A Skilled Worker visa (Tier 2) allows you to come to or stay in the UK to do an eligible 
 job with an approved employer. This visa has replaced the formerly called Tier 2 
@@ -26,7 +26,7 @@ this visa is the [Official UK Skilled visa](https://www.gov.uk/skilled-worker-vi
 Unlike other official websites, UK visa website is clean and well organized.
 
 Once you receive your offer/appointment letter from a UK university/laboratory, you 
-can start your visa application. The paper you will need to apply for a Skilled 
+can start your visa application. The documents you will need to apply for a Skilled 
 worker visa are:
 
 * A valid passport
@@ -36,8 +36,7 @@ worker visa are:
 * Proof for English proficiency via [ECCTIS](https://www.ecctis.com/visasandnationality)
 * Tuberculosis (TB) screening test report
 
-Below is a list of all the articles in this blog series. New articles will be added to 
-this list as I post them.
+Below is a list of all the articles in this blog series. 
 
 * Skilled Worker VISA Part 1: Introduction
 * [Skilled Worker VISA Part 2: Passport](skilled-worker-p2-passport)

@@ -5,6 +5,10 @@ categories: VISA
 ready : true
 ---
 
+[Previous blog](skilled-worker-p3-2-atas) we talked about other 
+sections in your ATAS application other than Proposed research section.
+This blog talksk about rest of the section in your ATAS application.
+
 ### Personal details
 
 Details from this section will be included in your ATAS certificate. Complete 
@@ -17,7 +21,8 @@ UK are provided in full and are accurate.
 ### Spouse
 
 If you are married and planning to bring your spouse into the UK, 
-you need to enter those details here. If 
+you need to enter those details here. I would advise to **add your spouses 
+name to your passport** if not already done. If 
 your spouse chooses to study or research an ATAS relevant subject while in 
 the UK accompanying you, they will need to apply separately for their own 
 ATAS certificate.
@@ -30,14 +35,14 @@ be sent to the preferred email address you enter in this section.
 ### Undergraduate/ postgraduate studies
 
 Provide as much detail as possible on all previous undergraduate and 
-postgraduate studies you have undertaken. Ensure there are no long gaps 
-in your education history. If you were unemployed or, for 
+postgraduate studies you have undertaken. **Ensure there are no long gaps 
+in your education history.** If you were unemployed or, for 
 example, a full-time parent, you should indicate this on the form.
 
 ### Other studies
 
 If you have undertaken any other studies you think may be relevant to your 
-application, you will need to enter it here. If not, fill as NIL.
+application, you will need to enter it here. **If not, fill as NIL.**
 
 ### Published papers
 
@@ -48,13 +53,13 @@ your own, or with co-publishers, you will need to enter it here.
 
 With as much detail as possible, details of any jobs you have held. You should 
 include jobs that relate to your proposed course of study or research area. 
-Ensure there are no long gaps in your employment history. If you 
-were unemployed or, for example, a full-time parent, you should indicate 
+Ensure there are no long gaps in your employment history. **If you 
+were unemployed** or, for example, a full-time parent, you should indicate 
 this on the form.
 
 ### Referees
 
-Provide details of 2 referees who have known you for a minimum of 3 years. 
+Provide details of 2 referees who have known you for a **minimum of 3 years**. 
 At least one of the referees must be from the academic sector. If you have 
 work experience, you should include a referee from your employment. A 
 referee from your home country would be preferable, but it is not essential 
@@ -71,7 +76,7 @@ your studies, include their details.
 
 Note that the information you provide when you apply is printed on the certificate. 
 When you have completed your application, please read through your entries carefully
-before you submit it. ATAS team can contact your over email, if they find issues 
+before you submit it. **ATAS team can contact your over email**, if they find issues 
 with your application.
 
 ## How long applications take
@@ -87,5 +92,8 @@ and can take 15 or more working days to complete.
 To ensure fairness and consistency we process applications in order of receipt. 
 There is no ‘fast track’ service. You should submit your ATAS application as 
 early as possible.
+
+[Next blog](skilled-worker-p4-cos) in this series brief about Certificates 
+of Sponsorship that you will receive from your sponsor.
 
 Source: [Guidance on how to apply for an ATAS certificate](https://www.gov.uk/guidance/guidance-on-how-to-apply-for-an-atas-certificate)

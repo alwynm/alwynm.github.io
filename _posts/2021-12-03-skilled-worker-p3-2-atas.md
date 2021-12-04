@@ -5,6 +5,9 @@ categories: VISA
 ready : true
 ---
 
+[Previous blog](skilled-worker-p3-1-atas) we talked about ATAS and how to apply ATAS. 
+This blog talks about the proposed research section in your ATAS application.
+
 ### Proposed research
 
 You be asked to give the following details:
@@ -20,7 +23,7 @@ You be asked to give the following details:
 * Plan after completion of research
 
 You need to decide and confirm the following items with your Research or 
-Project Lead before entering the application:
+Project Lead before entering these in your ATAS application:
 
 * Single line stating the area of research
 * Research statement
@@ -30,4 +33,7 @@ area of interest, teaching experience, how this offered position fits you, and
 your previous association with institute, your job title at the host institution 
 and details of previous contact, collaboration or employment with the host 
 institution. Research statement, personal statement of intent, and plan after 
-completion of research should be not more than 2000 characters in length.
+completion of research should be **not more than 2000 characters** in length.
+
+[Next blog](skilled-worker-p3-3-atas) in this series brief about other 
+sections in your ATAS application.
