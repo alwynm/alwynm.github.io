@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK Skilled Worker Tier-2 visa Part 1
+title: UK Skilled Worker visa Part 1 Introduction
 categories: VISA
 ready : true
 ---
@@ -46,4 +46,4 @@ Below is a list of all the articles in this blog series.
 * [Skilled Worker VISA Part 3.4: How long ATAS takes](skilled-worker-p3-4-atas)
 * [Skilled Worker VISA Part 4: Certificates of sponsorship](skilled-worker-p4-cos)
 * [Skilled Worker VISA Part 5: Tuberculosis (TB) screening test](skilled-worker-p5-tb)
-* [Skilled Worker VISA Part 6: Timeline and Expected approval](skilled-worker-p6-time)
+* [Skilled Worker VISA Part 6: Timeline and Expected approval](skilled-worker-p6-wrap)

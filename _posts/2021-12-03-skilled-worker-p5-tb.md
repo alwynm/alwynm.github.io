@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK Skilled Worker Tier-2 visa Part 5
+title: UK Skilled Worker visa Part 5 TB screening
 categories: VISA
 ready : true
 ---
@@ -25,7 +25,7 @@ If you are from India, your test must be from a [clinic approved](https://www.go
 This is one of the difficult document to acquire as each state in India have few 
 approved hospitals or clinics that perform these test. If you are short in time, 
 **you should get TB tested soon after you have applied ATAS**. TB test will cost you 
-around 2000-3000 INR according to the location.
+around ₹2000-₹3000 according to the location.
 
-[Next blog](skilled-worker-p6-time) in this series talks about timeline for 
+[Next blog](skilled-worker-p6-wrap) in this series talks about timeline for 
 applying and expected time for approval of each of these documents.

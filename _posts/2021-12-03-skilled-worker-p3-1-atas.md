@@ -1,19 +1,21 @@
 ---
 layout: post
-title: UK Skilled Worker Tier-2 visa Part 3.1
+title: UK Skilled Worker visa Part 3.1 ATAS
 categories: VISA
 ready : true
 ---
 
 [Previous blog](skilled-worker-p2-passport) we talked about the things you should ensure in your 
 passport before applying for visa. ATAS blog is divided into four posts: Part 3.1 (this blog) talks about 
-ATAS and how to apply ATAS, [Part 3.2](skilled-worker-p3-2-atas) ATAS proposed research, 
-[Part 3.3](skilled-worker-p3-3-atas) talks about other section in your ATAS application 
-and [Part 3.4 ](skilled-worker-p3-4-atas) talks about how long ATAS application takes to be approved.
+ATAS (Academic Technology Approval Scheme) and how to apply ATAS, [Part 3.2](skilled-worker-p3-2-atas) talks about 
+proposed research section in your ATAS application , [Part 3.3](skilled-worker-p3-3-atas) talks about other section in 
+your ATAS application and [Part 3.4 ](skilled-worker-p3-4-atas) talks about how long ATAS application takes to be 
+approved.
 
 The [Academic Technology Approval Scheme](https://www.gov.uk/guidance/academic-technology-approval-scheme) 
-(ATAS) applies to all international students and researchers (apart from exempt 
-nationalities) who are subject to UK immigration control and are intending to 
+(ATAS) applies to all international students and researchers (apart from [exempt 
+nationalities](https://www.gov.uk/guidance/find-out-if-you-require-an-atas-certificate))
+who are subject to UK immigration control and are intending to 
 study or research at postgraduate level in certain  sensitive subjects.
 
 ## Before applying ATAS
@@ -28,7 +30,7 @@ You will also need to provide your information on:
 
 * Previous studies
 * Previous and current employment (if applicable)
-* All published papers
+* All published research papers
 * Optional modules you might take in a taught Masters (if unsure please include all possible modules)
 your area of research, and a description (for research degrees and researchers)
 * Full names and contact details of 2 referees (usually professor in your institute)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK Skilled Worker Tier-2 visa Part 2
+title: UK Skilled Worker visa Part 2 Passport
 categories: VISA
 ready : true
 ---
@@ -33,5 +33,5 @@ more than the regular  passport application.
 
 [Next blog](skilled-worker-p3-1-atas)
 in this series talks about one of the most important document, Academic Technology 
-Approval Scheme (ATAS) certificate, you should first acquire from UK Foreign, 
+Approval Scheme (ATAS) certificate that you should first acquire from UK Foreign, 
 Commonwealth & Development Office.

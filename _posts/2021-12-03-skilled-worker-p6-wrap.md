@@ -1,11 +1,11 @@
 ---
 layout: post
-title: UK Skilled Worker Tier-2 visa Part 6
+title: UK Skilled Worker visa Part 6 Wrap
 categories: VISA
 ready : true
 ---
 
-[Previous blog](skilled-worker-p5-tb) we talked aboutTuberculosis (TB) screening 
+[Previous blog](skilled-worker-p5-tb) we talked about Tuberculosis (TB) screening 
 test report. This blog talks timeline for applying and expected time for approval of 
 each of these documents.
 
@@ -34,7 +34,7 @@ each of these documents.
     * Priority: Within 5 working days (at least £1270 + £500)
     * Super Priority: Within 1 working day (at least £1270 + £900)
 
-This ends the blog series about UK Skilled visa. 
+This ends the blog series about UK Skilled visa. All the best.
 
 Below is a list of all the articles in this blog series. 
 

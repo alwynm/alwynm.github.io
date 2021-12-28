@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK Skilled Worker Tier-2 visa Part 3.4
+title: UK Skilled Worker visa Part 3.4 ATAS
 categories: VISA
 ready : true
 ---
@@ -8,9 +8,10 @@ ready : true
 [Previous blog](skilled-worker-p3-2-atas) we talked about other 
 sections in your ATAS application other than Proposed research section.
 ATAS blog is divided into four posts: [Part 3.1](skilled-worker-p3-1-atas) talks about 
-ATAS and how to apply ATAS, [Part 3.2](skilled-worker-p3-2-atas) ATAS proposed research, 
-[Part 3.3](skilled-worker-p3-3-atas) talks about rest of section in your ATAS application and
-Part 3.4 (this blog) talks about how long ATAS application takes to be approved.
+ATAS (Academic Technology Approval Scheme) and how to apply ATAS, [Part 3.2](skilled-worker-p3-2-atas) talks about 
+proposed research section in your ATAS application , [Part 3.3](skilled-worker-p3-3-atas) talks about other section in 
+your ATAS application and Part 3.4(this blog) talks about how long ATAS application takes to be 
+approved.
 
 ### How long applications take
 

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: UK Skilled Worker Tier-2 visa Part 4
+title: UK Skilled Worker visa Part 4 CoS
 categories: VISA
 ready : true
 ---
 
-[Previous blog](skilled-worker-p3-3-atas) we talked about Proposed 
-research section in your ATAS application. This blog talks about the
-Certificates of sponsorship (CoS) from your employer and required documents 
-for the same.
+[Previous blog](skilled-worker-p3-3-atas) we talked about ATAS certificate. This blog talks about the
+Certificates of Sponsorship (CoS) from your employer and required documents for the same.
 
 ### Certificates of sponsorship 
 
@@ -22,8 +20,8 @@ before CoS can be issued to you.
 
 If you hold a non-UK degree, the institute need your NARIC reference 
 number to process your sponsorship certificate. Due to the UK leaving 
-the European Union, the [UK NARIC national agency function](naric.org.uk )
-is now [UK ENIC](www.enic.org.uk) – managed by [ECCTIC](www.ecctis.com). 
+the European Union, the [UK NARIC national agency function](https://www.naric.org.uk)
+is now [UK ENIC](https://www.enic.org.uk) – managed by [ECCTIC](https://www.ecctis.com). 
 All services operate as before. Individuals: use this Ecctis website 
 to apply for Visas & Nationality and Industry Skills Statements. 
 
