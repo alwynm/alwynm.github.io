@@ -29,7 +29,7 @@ each of these documents.
     * Fast track: Within 48 hrs (£210 + £124 + tax)
     * Fast track: Within 24 hrs (£210 + £174 + tax)
 * TB test: 2-3 weeks (2000-3000 INR)
-* VISA
+* VISA (days counted after VISA appointment)
     * Regular: Upto 30 days (at least £1270)
     * Priority: Within 5 working days (at least £1270 + £500)
     * Super Priority: Within 1 working day (at least £1270 + £900)
