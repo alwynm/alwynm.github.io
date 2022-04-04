@@ -33,7 +33,7 @@ gems:
   - jekyll-gist
   - jekyll-sitemap
 
-timezone: Asia/Kolkata
+timezone: Europe/London
 
 pages_list:
   Publication: '/pub'
