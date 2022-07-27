@@ -39,7 +39,7 @@ typewriter
 [Postdoctoral Research Assistant](https://www.dundee.ac.uk/people/alwyn-mathew) 
 at Division of Imaging Science and Technology, 
 <a href="https://www.dundee.ac.uk/">University of Dundee</a> led by
-<a href="https://www.dundee.ac.uk/people/luigi-manfredi">Dr. Luigi Manfredi</a>,
+<a href="https://www.luigimanfredi.com/">Dr. Luigi Manfredi</a>,
 <a href="https://www.dundee.ac.uk/people/ludovic-magerand">Dr. Ludovic Magerand</a>, and
 <a href="https://www.dundee.ac.uk/people/emanuele-trucco">Prof. Emanuele Trucco</a>.
 I did my PhD at [IIT Patna](https://www.iitp.ac.in) adviced by Dr. Jimson Mathew. 
