@@ -59,9 +59,11 @@ learning algorithms that can perceive depth without supervision.
 ## Latest publications
 
 <ul>
+<h3>Journals</h3>
 {% for item in site.data.pubs.journal limit:2 %}
 <li>{{item}}</li>
 {% endfor %}
+<h3>Conferences</h3>
 {% for item in site.data.pubs.conference limit:2 %}
 <li>{{item}}</li>
 {% endfor %}
