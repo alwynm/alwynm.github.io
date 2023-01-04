@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Multiple Git configs on same system
+title: Multiple Git configs on linux system
 categories: General
 ready : true
 ---
 
-If you have multiple git accounts and would like to config them in one computer, this post is for you. `.gitconfig` 
+If you have multiple git accounts and would like to config them in your linux machine, this post is for you. `.gitconfig` 
 file is starter point for Git to identify what configurations need to be used. 
 
 ### Create separate directories for repos
