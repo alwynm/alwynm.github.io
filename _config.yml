@@ -3,7 +3,7 @@ permalink:          blog/:categories/:title
 
 # Setup
 title:               Alwyn Mathew
-tagline:             University of Dundee
+tagline:             University of Cambridge
 url:                 "https://alwynm.github.io"
 paginate:            1
 baseurl:             ""
@@ -20,7 +20,7 @@ sass:
 author:
   name:              Alwyn Mathew
   url:               https://twitter.com/alwyn_mathew
-  email:             amathew001@dundee.ac.uk
+  email:             am3156@cam.ac.uk
 
 # Custom vars
 version:             2.0.0

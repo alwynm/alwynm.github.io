@@ -36,15 +36,14 @@ typewriter
   .start();
 </script>
 
+[Research Associate]() at Department of Engineering, [University of Cambridge](https://cit.eng.cam.ac.uk) working on 
+[BIM2TWIN](https://bim2twin.eu) led by [Professor Ioannis Brilakis](http://www.eng.cam.ac.uk/profiles/ib340). Before, I was a  
 [Postdoctoral Research Assistant](https://www.dundee.ac.uk/people/alwyn-mathew) 
 at Division of Imaging Science and Technology, 
-<a href="https://www.dundee.ac.uk/">University of Dundee</a> led by
-<a href="https://www.luigimanfredi.com/">Dr. Luigi Manfredi</a>,
-<a href="https://www.dundee.ac.uk/people/ludovic-magerand">Dr. Ludovic Magerand</a>, and
-<a href="https://www.dundee.ac.uk/people/emanuele-trucco">Prof. Emanuele Trucco</a>.
-I did my PhD at [IIT Patna](https://www.iitp.ac.in) adviced by Dr. Jimson Mathew. 
-I'm primarily interested in replicating biological visual system 
-to a computer system. My current research goal is to build 
+[University of Dundee](https://www.dundee.ac.uk/), worked on a vision system for soft endorobots led by
+[Dr. Luigi Manfredi](https://www.luigimanfredi.com/).
+I did my PhD in 3D computer vision at [Indian Institutes of Technology (IIT) Patna](https://www.iitp.ac.in) advised by Dr. Jimson Mathew. 
+I'm primarily interested in replicating biological visual system to a robotic system. My current research goal is to build 
 learning algorithms that can perceive depth without supervision.
 
 ## News
