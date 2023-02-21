@@ -36,15 +36,15 @@ typewriter
   .start();
 </script>
 
-[Research Associate]() at Department of Engineering, [University of Cambridge](https://cit.eng.cam.ac.uk) working on 
-[BIM2TWIN](https://bim2twin.eu) led by [Professor Ioannis Brilakis](http://www.eng.cam.ac.uk/profiles/ib340). Before, I was a  
-[Postdoctoral Research Assistant](https://www.dundee.ac.uk/people/alwyn-mathew) 
-at Division of Imaging Science and Technology, 
-[University of Dundee](https://www.dundee.ac.uk/), worked on a vision system for soft endorobots led by
-[Dr. Luigi Manfredi](https://www.luigimanfredi.com/).
-I did my PhD in 3D computer vision at [Indian Institutes of Technology (IIT) Patna](https://www.iitp.ac.in) advised by Dr. Jimson Mathew. 
-I'm primarily interested in replicating biological visual system to a robotic system. My current research goal is to build 
-learning algorithms that can perceive depth without supervision.
+[Research Associate]() at Department of Engineering, [University of Cambridge](https://cit.eng.cam.ac.uk) working
+on [BIM2TWIN](https://bim2twin.eu) and [OMICRON](https://omicronproject.eu) led
+by [Professor Ioannis Brilakis](http://www.eng.cam.ac.uk/profiles/ib340). Before, I was
+a [Postdoctoral Research Assistant](https://www.dundee.ac.uk/people/alwyn-mathew) at Division of Imaging Science and
+Technology, [University of Dundee](https://www.dundee.ac.uk/), worked on a vision system for soft endorobots led
+by [Dr. Luigi Manfredi](https://www.luigimanfredi.com/). I did my PhD in 3D computer vision
+at [Indian Institutes of Technology (IIT) Patna](https://www.iitp.ac.in) advised by Dr. Jimson Mathew. I'm primarily
+interested in understanding 3D representation from 2D cameras. My current research goal is to build mobile 3D scanner to create
+digital twins for infrastructures.
 
 ## News
 
