@@ -37,8 +37,8 @@ typewriter
 </script>
 
 [Research Associate](https://cit.eng.cam.ac.uk/staff-and-students#file-2301) at Department of Engineering, 
-[University of Cambridge](https://cit.eng.cam.ac.uk) working on [BIM2TWIN](https://bim2twin.eu) and 
-[OMICRON](https://omicronproject.eu) led by [Professor Ioannis Brilakis](http://www.eng.cam.ac.uk/profiles/ib340). 
+[University of Cambridge](https://cit.eng.cam.ac.uk) working on [BIM2TWIN](https://bim2twin.eu), 
+[OMICRON](https://omicronproject.eu) and D-HYDROFLEX led by [Professor Ioannis Brilakis](http://www.eng.cam.ac.uk/profiles/ib340). 
 Before, I was a Postdoctoral Research Assistant at Division of Imaging Science and
 Technology, [University of Dundee](https://www.dundee.ac.uk/), worked on a vision system for soft endorobots led
 by [Dr. Luigi Manfredi](https://www.luigimanfredi.com/). I did my PhD in 3D computer vision
