@@ -25,7 +25,7 @@ typewriter
   .typeString('Hi, I\'m <strong>Alwyn</strong>')
   // .typeString('<br/>')
   // .pauseFor(1000)
-  // .typeString('I love <strong> <span style="color: #27ae60;">Computer Vision</span> </strong>')
+  // .typeString('I love <strong> <span style="color: #27ae60;">3D Computer Vision</span> </strong>')
   // .pauseFor(2000)
   // .deleteChars(16)
   // .typeString('<strong> <span style="color: #F0A202 ;">Adversarial Learning</span></strong>')
