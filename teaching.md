@@ -58,4 +58,4 @@ Curated [external study materials](teaching/externallinks) for deep learning.
 * 2019: Work with Microsoft XBOX Kinect 360 (Khusbhoo Vanhishth, NITAP)
 * 2017: Crowd density analysis (Nitesh Nandan, NITP) 
 
-*Ping {% if site.author.email %}<a href="mailto:{{ site.author.email }}">me</a>{% endif %} for collaboration or internship opportunities.*
+~~*Ping {% if site.author.email %}<a href="mailto:{{ site.author.email }}">me</a>{% endif %} for collaboration or internship opportunities.*~~
