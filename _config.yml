@@ -41,7 +41,7 @@ pages_list:
   Teaching: '/teaching'
   Blog: '/blog'
 #  Misc: '/misc'
-  Resume: '/resume'
+  CV: '/cv'
 
 twitter_username:     alwyn_mathew
 github_username:      alwynmathew

@@ -13,7 +13,9 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 {% endfor %}
 </ul>
 
+<!--
 <span style="color:green">Five</span> journal(s) under review.
+-->
 
 ### Conferences
 
@@ -23,7 +25,9 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 {% endfor %}
 </ul>
 
+<! --
 <span style="color:green">One</span> conference(s) under review.
+-->
 
 ### Patents
 
