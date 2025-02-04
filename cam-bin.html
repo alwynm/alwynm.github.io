@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cambridge Bin Collection</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7fa;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #2c3e50;
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        input, select, button {
+            padding: 12px 18px;
+            font-size: 16px;
+            margin: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            transition: all 0.3s ease;
+        }
+
+        input:focus, select:focus, button:focus {
+            border-color: #3498db;
+            outline: none;
+        }
+
+        button {
+            background-color: #3498db;
+            color: white;
+            cursor: pointer;
+            border: none;
+        }
+
+        button:hover {
+            background-color: #2980b9;
+        }
+
+        label {
+            font-weight: bold;
+            color: #2c3e50;
+            font-size: 1.1rem;
+        }
+
+        .inline {
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        select {
+            width: 300px;
+        }
+
+        table {
+            margin-top: 20px;
+            width: 100%;
+            border-collapse: collapse;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            padding: 15px;
+            border: 1px solid #ddd;
+            text-align: left;
+            font-size: 1.1rem;
+        }
+
+        th {
+            background-color: #3498db;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        tr:hover {
+            background-color: #ecf0f1;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .description {
+            color: #7f8c8d;
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+        }
+
+        .section-title {
+            margin-top: 30px;
+            color: #2c3e50;
+            font-size: 1.8rem;
+            text-align: center;
+        }
+
+        /* Initially hide certain sections */
+        #addressDropdown,
+        #numCollections,
+        #collectionDatesTable,
+        #numCollectionsLabel,
+        #addressLabel,
+        #collectionDatesLabel {
+            display: none;
+        }
+
+        /* Highlighting specific round types */
+        .domestic {
+            background-color: black;
+            color: white;
+        }
+
+        .organic {
+            background-color: green;
+            color: white;
+        }
+
+        .recycle {
+            background-color: blue;
+            color: white;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Cambridge Bin Collection Dates</h1>
+        <p class="description">Enter your postcode to find the upcoming bin collection dates for your address.</p>
+
+        <label for="postcode">Enter Postcode:</label>
+        <input type="text" id="postcode" placeholder="e.g. CB39JW">
+        <button onclick="fetchAddresses()">Get Address</button>
+
+        <br>
+
+        <div class="inline">
+            <label for="addressDropdown" id="addressLabel">Select Address:</label>
+            <select id="addressDropdown" onchange="fetchCollectionDates()">
+                <option value="">Select an address</option>
+            </select>
+        </div>
+
+        <div class="inline">
+            <label for="numCollections" id="numCollectionsLabel">Number of Collection Dates:</label>
+            <input type="number" id="numCollections" value="5" min="1">
+        </div>
+
+        <br>
+
+        <table id="collectionDatesTable">
+            <thead>
+                <tr>
+                    <th>Collection date</th>
+                    <th>Bin types</th>
+                </tr>
+            </thead>
+            <tbody id="collectionDates"></tbody>
+        </table>
+    </div>
+
+    <script>
+        const BACKEND_URL = "https://ws-cam.onrender.com";
+
+        async function fetchAddresses() {
+            const postcode = document.getElementById("postcode").value.trim();
+            if (!postcode) return alert("Please enter a postcode.");
+
+            try {
+                const response = await fetch(`${BACKEND_URL}/getAddresses?postcode=${postcode}`);
+                if (!response.ok) throw new Error("Failed to fetch addresses");
+                const data = await response.json();
+
+                console.log("API Response:", data); // Debugging - Check response
+
+                if (!Array.isArray(data) || data.length === 0) {
+                    throw new Error("Invalid data format or no addresses found");
+                }
+
+                const dropdown = document.getElementById("addressDropdown");
+                dropdown.innerHTML = '<option value="">Select an address</option>';
+
+                data.forEach(addr => {
+                    const option = document.createElement("option");
+                    option.value = addr.id;  // Use "id" as the unique identifier (UPRN equivalent)
+                    option.textContent = `${addr.houseNumber} ${addr.street}, ${addr.town}, ${addr.postCode}`;
+                    dropdown.appendChild(option);
+                });
+
+                // Show the address selection and collection number fields
+                document.getElementById("addressLabel").style.display = "inline-block";
+                document.getElementById("addressDropdown").style.display = "inline-block";
+                document.getElementById("numCollectionsLabel").style.display = "inline-block";
+                document.getElementById("numCollections").style.display = "inline-block";
+            } catch (error) {
+                console.error("Error fetching addresses:", error);
+                alert("Failed to fetch addresses.");
+            }
+        }
+
+       async function fetchCollectionDates() {
+    const uprn = document.getElementById("addressDropdown").value;
+    const numCollections = document.getElementById("numCollections").value;
+
+    if (!uprn) return alert("Please select an address.");
+
+    try {
+        const response = await fetch(`${BACKEND_URL}/getCollections?uprn=${uprn}&numberOfCollections=${numCollections}`);
+        if (!response.ok) throw new Error("Failed to fetch collection dates");
+        const data = await response.json();
+
+        const tableBody = document.getElementById("collectionDates");
+        const table = document.getElementById("collectionDatesTable");
+        table.style.display = "table"; // Show the table after data is available
+        tableBody.innerHTML = "";
+
+        if (!Array.isArray(data.collections) || data.collections.length === 0) {
+            throw new Error("Invalid collection data format or no collections found");
+        }
+
+        data.collections.forEach(item => {
+            const row = document.createElement("tr");
+
+            const dateCell = document.createElement("td");
+            const date = new Date(item.date).toLocaleDateString(); // Format date
+            dateCell.textContent = date;
+            row.appendChild(dateCell);
+
+            const roundTypesCell = document.createElement("td");
+            item.roundTypes.forEach(type => {
+                const span = document.createElement("span");
+                // Apply styles based on the round type
+                if (type.toLowerCase() === "domestic") {
+                    span.className = "domestic";
+                } else if (type.toLowerCase() === "organic") {
+                    span.className = "organic";
+                } else if (type.toLowerCase() === "recycle") {
+                    span.className = "recycle";
+                }
+                span.textContent = type;
+                roundTypesCell.appendChild(span);
+                roundTypesCell.appendChild(document.createTextNode(" ")); // Add a space between types
+            });
+            row.appendChild(roundTypesCell);
+
+            tableBody.appendChild(row);
+        });
+
+        // Ensure the element exists before modifying its style
+        const collectionDatesLabel = document.getElementById("collectionDatesLabel");
+        if (collectionDatesLabel) {
+            collectionDatesLabel.style.display = "block";
+        }
+
+    } catch (error) {
+        console.error("Error fetching collection dates:", error);
+        alert("Failed to fetch collection dates.");
+    }
+}
+    </script>
+
+</body>
+</html>
