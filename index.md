@@ -36,7 +36,7 @@ typewriter
   .start();
 </script>
 
-[Research Associate](https://www.construction.cam.ac.uk/staff/dr-alwyn-mathew) in the Department of Engineering at the University of Cambridge, working on the [D-HYDROFLEX](https://dhydroflex.eu) and [DRF](https://drf.eng.cam.ac.uk) projects under the supervision of [Professor Ioannis Brilakis](http://www.eng.cam.ac.uk/profiles/ib340). Before, I was a Postdoctoral Research Assistant at Division of Imaging Science and
+[Research Associate](https://www.construction.cam.ac.uk/staff/dr-alwyn-mathew) in the Department of Engineering at the University of Cambridge, working on the [D-HYDROFLEX](https://dhydroflex.eu) and [DRF](https://drf.eng.cam.ac.uk) projects under the supervision of [Professor Ioannis Brilakis](http://www.eng.cam.ac.uk/profiles/ib340). At Cambridge, I previously worked on the [BIM2TWIN](https://bim2twin.eu) and [OMICRON](https://omicronproject.eu) projects. Before, I was a Postdoctoral Research Assistant at Division of Imaging Science and
 Technology, [University of Dundee](https://www.dundee.ac.uk/), worked on a vision system for soft endorobots led
 by [Dr. Luigi Manfredi](https://www.luigimanfredi.com/). I did my PhD in 3D computer vision
 at [Indian Institutes of Technology (IIT) Patna](https://www.iitp.ac.in) advised by Dr. Jimson Mathew. I'm primarily
