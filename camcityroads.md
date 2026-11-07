@@ -1,5 +1,5 @@
 ---
-published: false  # hidden until the papers are out; delete this line to publish
+published: true
 layout: page
 title: "CAMCityRoads: The Cambridge City Roads Dataset"
 description: "From raw LiDAR sweeps to a textured, labelled and georeferenced model of a city's local streets, recorded with one low-cost scanner and no GNSS."
@@ -7,9 +7,34 @@ image: /assets/camcityroads/01_hero_title.jpg
 ---
 
 <style>
-.ccr-subtitle { font-size: 1.1rem; color: #767676; }
-.ccr-links { font-weight: bold; }
 .ccr-todo { color: #ac4142; font-weight: normal; }
+/* header and BibTeX styled after adriankruse.github.io/VINO */
+.ccr-header { text-align: center; margin-bottom: 2rem; }
+.ccr-title { margin: 0; font-size: 2rem; font-weight: 700; line-height: 1.15; letter-spacing: -0.01em; color: #18181b; }
+.ccr-subtitle { margin: .75rem 0 0; color: #52525b; }
+.ccr-authors, .ccr-affiliations { display: flex; flex-wrap: wrap; justify-content: center; gap: 2px 20px; }
+.ccr-authors { margin: 1.25rem 0 0; font-size: 18px; }
+.ccr-authors a { color: #2563eb; }
+.ccr-affiliations { margin: .5rem 0 0; font-size: 16px; color: #52525b; }
+.ccr-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-top: 1.75rem; }
+.ccr-links a { display: flex; align-items: center; padding: 9px 18px; border: 1px solid #e4e4e7; border-radius: 8px; background: white; box-shadow: 0 1px 2px rgba(0,0,0,.05); color: #18181b; font-size: 15px; text-decoration: none; transition: border-color .2s ease, box-shadow .2s ease; }
+.ccr-links a:hover { border-color: #a1a1aa; box-shadow: 0 2px 6px rgba(0,0,0,.08); text-decoration: none; }
+.ccr-links a:first-child { border-color: #18181b; background: #18181b; color: white; }
+.ccr-links a:first-child::before { filter: invert(1); }
+/* not out yet (no href): muted, no hover; placed after :first-child so it wins */
+.ccr-links a:not([href]), .ccr-links a:not([href]):hover { border-color: #e4e4e7; background: white; box-shadow: none; color: #a1a1aa; cursor: default; }
+.ccr-links a:not([href])::before { filter: none; opacity: .4; }
+.ccr-links a::before { content: ""; width: 16px; height: 16px; margin-right: 8px; background: no-repeat center / contain; }
+.ccr-links .ccr-paper::before { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2318181b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z'/%3E%3Cpolyline points='14 2 14 8 20 8'/%3E%3Cline x1='8' y1='13' x2='16' y2='13'/%3E%3Cline x1='8' y1='17' x2='16' y2='17'/%3E%3C/svg%3E"); }
+.ccr-links .ccr-dataset::before { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2318181b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolygon points='12 2 2 7 12 12 22 7 12 2'/%3E%3Cpolyline points='2 17 12 22 22 17'/%3E%3Cpolyline points='2 12 12 17 22 12'/%3E%3C/svg%3E"); }
+.ccr-links .ccr-code::before { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1024 1024' fill='%2318181b'%3E%3Cpath d='M512.008 12.642c-282.738 0-512.008 229.218-512.008 511.998 0 226.214 146.704 418.132 350.136 485.836 25.586 4.738 34.992-11.11 34.992-24.632 0-12.204-0.48-52.542-0.696-95.324-142.448 30.976-172.504-60.410-172.504-60.410-23.282-59.176-56.848-74.916-56.848-74.916-46.452-31.778 3.51-31.124 3.51-31.124 51.4 3.61 78.476 52.766 78.476 52.766 45.672 78.27 119.776 55.64 149.004 42.558 4.588-33.086 17.852-55.68 32.506-68.464-113.73-12.942-233.276-56.85-233.276-253.032 0-55.898 20.004-101.574 52.76-137.428-5.316-12.9-22.854-64.972 4.952-135.5 0 0 43.006-13.752 140.84 52.49 40.836-11.348 84.636-17.036 128.154-17.234 43.502 0.198 87.336 5.886 128.256 17.234 97.734-66.244 140.656-52.49 140.656-52.49 27.872 70.528 10.35 122.6 5.036 135.5 32.82 35.856 52.694 81.532 52.694 137.428 0 196.654-119.778 239.95-233.79 252.624 18.364 15.89 34.724 47.046 34.724 94.812 0 68.508-0.596 123.644-0.596 140.508 0 13.628 9.222 29.594 35.172 24.566 203.322-67.776 349.842-259.626 349.842-485.768 0-282.78-229.234-511.998-511.992-511.998z'/%3E%3C/svg%3E"); }
+.ccr-links .ccr-videolink::before { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2318181b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpolygon points='10 8 16 12 10 16 10 8'/%3E%3C/svg%3E"); }
+.ccr-bibtex { position: relative; margin-bottom: 1rem; }
+.ccr-bibtex pre { margin: 0; padding: 16px 18px; white-space: pre-wrap; overflow-wrap: anywhere; border: 1px solid #e4e4e7; border-radius: 8px; background: #fafafa; color: #18181b; }
+.ccr-bibtex pre, .ccr-bibtex code { font: 13px/1.6 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.ccr-bibtex code { padding: 0; background: none; color: inherit; }
+.ccr-bibtex button { position: absolute; top: 8px; right: 8px; padding: 4px 10px; border: 1px solid #e4e4e7; border-radius: 6px; background: white; color: #71717a; font: inherit; font-size: 13px; cursor: pointer; }
+.ccr-bibtex button:hover { color: #18181b; }
 .ccr figure { margin: 0 0 1rem; }
 .ccr figure img { width: 100%; height: auto; margin-bottom: .4rem; }
 .ccr figcaption { font-size: .85rem; line-height: 1.4; color: #767676; }
@@ -25,11 +50,22 @@ image: /assets/camcityroads/01_hero_title.jpg
 
 <div class="ccr" markdown="1">
 
-# CAMCityRoads: The Cambridge City Roads Dataset
-
-<p class="ccr-subtitle">From raw LiDAR sweeps to a textured, labelled and georeferenced model of a city's local streets, recorded with one low-cost scanner and no GNSS.</p>
-
-<p class="ccr-links">Paper <span class="ccr-todo">(TO ADD)</span> · Dataset <span class="ccr-todo">(TO ADD)</span> · Code <span class="ccr-todo">(TO ADD)</span> · Video <span class="ccr-todo">(TO ADD: YouTube link)</span></p>
+<!-- Links: add href="..." to a link and drop "(soon)" once it exists; links without href show muted. -->
+<header class="ccr-header" markdown="0">
+  <h1 class="ccr-title"><strong>CAMCityRoads</strong>: The Cambridge City Roads Dataset</h1>
+  <p class="ccr-subtitle">From raw LiDAR sweeps to a textured, labelled and georeferenced model of a city's local streets, recorded with one low-cost scanner and no GNSS.</p>
+  <p class="ccr-authors">
+    <span><a href="/">Alwyn Mathew</a><sup>1</sup></span>
+    <span class="ccr-todo">Co-authors (TO ADD)</span>
+  </p>
+  <p class="ccr-affiliations"><span><sup>1</sup>University of Cambridge</span></p>
+  <div class="ccr-links">
+    <a class="ccr-paper">Paper (soon)</a>
+    <a class="ccr-dataset">Dataset (soon)</a>
+    <a class="ccr-code">Code (soon)</a>
+    <a class="ccr-videolink">Video (soon)</a>
+  </div>
+</header>
 
 <figure>
   <img src="/assets/camcityroads/01_hero_title.jpg" width="1920" height="1080" alt="CAMCityRoads title over the survey drives drawn on the Ordnance Survey map of Cambridge">
@@ -145,15 +181,24 @@ and are reported as limits.
 
 ## Citation
 
-```bibtex
-@article{camcityroads,
+<div class="ccr-bibtex" markdown="0">
+<button type="button">Copy</button>
+<pre><code>@article{camcityroads,
   title   = {CAMCityRoads: The Cambridge City Roads Dataset},
   author  = {TO ADD},
   journal = {Advanced Engineering Informatics},
   year    = {TO ADD},
   doi     = {TO ADD}
-}
-```
+}</code></pre>
+</div>
+
+<script>
+  document.querySelector('.ccr-bibtex button').addEventListener('click', async (event) => {
+    await navigator.clipboard.writeText(document.querySelector('.ccr-bibtex code').textContent);
+    event.target.textContent = 'Copied';
+    setTimeout(() => { event.target.textContent = 'Copy'; }, 1500);
+  });
+</script>
 
 ## Acknowledgements
 
