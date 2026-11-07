@@ -1,5 +1,5 @@
 ---
-published: true
+published: false  # hidden until the papers are out; set to true to publish
 layout: page
 title: "CAMCityRoads: The Cambridge City Roads Dataset"
 description: "From raw LiDAR sweeps to a textured, labelled and georeferenced model of a city's local streets, recorded with one low-cost scanner and no GNSS."
