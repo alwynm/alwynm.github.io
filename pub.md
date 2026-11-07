@@ -28,7 +28,3 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 <!--
 <span style="color:green">One</span> conference(s) under review.
 -->
-
-### Patents
-
-* Easa, Z., Gupta, D., Mathew, J., and **Mathew, A.**, Automated two-wheeler parking system by detecting the location of the vehicle using sensor under the platform. Appl.no. 201731036379. (Patent Pending)
