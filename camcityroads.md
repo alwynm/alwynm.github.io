@@ -38,7 +38,7 @@ image: /assets/camcityroads/01_hero_title.jpg
 .ccr figure { margin: 0 0 1rem; }
 .ccr figure img { width: 100%; height: auto; margin-bottom: .4rem; }
 .ccr figcaption { font-size: .85rem; line-height: 1.4; color: #767676; }
-/* grids may be wider than the 38rem text column so the images stay readable */
+/* grids may be wider than the 50rem text column so the images stay readable */
 .ccr-wide { position: relative; left: 50%; transform: translateX(-50%); width: min(64rem, calc(100vw - 2rem)); }
 .ccr-grid { display: grid; gap: 1rem; grid-template-columns: 1fr; }
 @media (min-width: 40em) { .ccr-grid { grid-template-columns: repeat(2, 1fr); } }
@@ -178,6 +178,43 @@ and are reported as limits.
   </div>
   <p class="ccr-attrib">Contains OS data © Crown copyright and database right 2026. Contains Environment Agency information © Environment Agency copyright and/or database right 2022.</p>
 </div>
+
+## Checking your download
+
+Run these in the folder that holds the downloaded zips and `SHA256SUMS.txt`. Each one prints `<name>.zip: OK` when
+the file is intact; on a failure, download that zip again.
+
+**Linux**
+
+```bash
+# one zip
+grep " raw.zip$" SHA256SUMS.txt | sha256sum -c
+
+# all the zips you downloaded (skips the ones you didn't)
+sha256sum -c --ignore-missing SHA256SUMS.txt
+```
+
+**macOS (Terminal)**
+
+```bash
+# one zip
+grep " raw.zip$" SHA256SUMS.txt | shasum -a 256 -c
+
+# all the zips you downloaded
+for f in *.zip; do grep " $f$" SHA256SUMS.txt | shasum -a 256 -c; done
+```
+
+**Windows (PowerShell)**
+
+```powershell
+# one zip: prints the hash; compare it with the raw.zip line in SHA256SUMS.txt
+Get-FileHash raw.zip -Algorithm SHA256
+
+# all the zips you downloaded: prints OK or FAILED for each
+Get-Content SHA256SUMS.txt | ForEach-Object { $h, $f = $_ -split '\s+', 2; if (Test-Path $f) { $ok = (Get-FileHash $f -Algorithm SHA256).Hash -eq $h; "${f}: $(if ($ok) {'OK'} else {'FAILED'})" } }
+```
+
+Replace `raw.zip` with any other zip name. Large zips take a few minutes each and show no progress.
 
 ## Citation
 
